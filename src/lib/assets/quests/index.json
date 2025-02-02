@@ -18,7 +18,10 @@
     "objectsKey": "capitals",
     "tags": [ "World" ],
     "defaultTags": [ "World" ],
-    "mapSource": "https://github.com/Stefie/geojson-world"
+    "maps": [
+        { "type": "basemap",  "filePathRelativeToQuestDir": "../../basemaps/world-countries-simple.geojson", "namePropertyKey": "name" },
+        { "type": "elements", "filePathRelativeToQuestDir": "capitals.geojson",                              "namePropertyKey": "city" }
+    ]
   },
   {
     "id": "usa-states",
