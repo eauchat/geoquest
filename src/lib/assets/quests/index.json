@@ -61,9 +61,9 @@
     "tags": [ "France", "Auvergne-Rhône-Alpes", "Bourgogne-Franche-Comté", "Bretagne", "Centre-Val de Loire", "Corse", "Grand Est", "Hauts-de-France", "Île-de-France", "Normandie", "Nouvelle-Aquitaine", "Occitanie", "Pays de la Loire", "Provence-Alpes-Côte d'Azur", "Outre-Mer" ],
     "defaultTags": [ "France" ],
     "maps": [
-        { "type": "basemap",  "filePathRelativeToQuestDir": "../../maps/world-land-withLakesAndRivers.geojson", "namePropertyKey": "name" },
-        { "type": "elements", "filePathRelativeToQuestDir": "departements-avec-outre-mer.geojson",              "namePropertyKey": "nom"  },
-        { "type": "elements", "filePathRelativeToQuestDir": "collectivités-outre-mer-et-nouméa.geojson",        "namePropertyKey": "name" }
+        { "type": "basemap",  "filePathRelativeToQuestDir": "../../basemaps/world-land-withLakesAndRivers.geojson", "namePropertyKey": "name" },
+        { "type": "elements", "filePathRelativeToQuestDir": "departements-avec-outre-mer.geojson",                  "namePropertyKey": "nom"  },
+        { "type": "elements", "filePathRelativeToQuestDir": "collectivités-outre-mer-et-nouméa.geojson",            "namePropertyKey": "name" }
     ]
   },
   {
