@@ -1,11 +1,11 @@
 {
-    "world-countries": "🌎 Countries of the world",
-    "world-capitals": "🌎 Capitals of the world",
-    "usa-states": "🇺🇸 US States",
+	"world-countries": "🌎 Countries of the world",
+	"world-capitals": "🌎 Capitals of the world",
+	"usa-states": "🇺🇸 US States",
 	"canada-provinces": "🇨🇦 Canada (provinces)",
 	"china-provinces": "🇨🇳 China (provinces)",
-    "russia-regions": "🇷🇺 Russia (regions)",
+	"russia-regions": "🇷🇺 Russia (regions)",
 	"france-departments": "🇫🇷 France (departments)",
-    "italy-regions": "🇮🇹 Italy (regions)",
+	"italy-regions": "🇮🇹 Italy (regions)",
 	"italy-provinces": "🇮🇹 Italy (provinces)"
 }
