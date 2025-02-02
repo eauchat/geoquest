@@ -49,11 +49,12 @@ let elements = {};
 let colorIndex = 0;
 _.each(mapFile.objects[questObject.objectsKey].geometries, function (geometryObject, geometryIndex) {
   if (!geometryObject.properties) return log.error(`Geometry with index "${geometryIndex}" is missing properties.`)
-  else if (!geometryObject.properties.name) return log.error(`Geometry with index "${geometryIndex}" is missing name in properties.`);
-  elements[geometryObject.properties.name] = {
+  else if (!geometryObject.properties.name) return log.error(`Geometry with index "${geometryIndex}" is missing name in properties.`, geometryObject.properties);
+  if (geometryObject.properties.type !== "basemap") elements[geometryObject.properties.name] = {
     color: colorIndex,
     tags: questObject.defaultTags,
-  };
+  }
+  else elements[geometryObject.properties.name] = { tags: [ "BASEMAP" ] };
   colorIndex = colorIndex < 3 ? colorIndex + 1 : 0;
 });
 fs.writeFileSync(questFilesPaths.elements, json_stringify_pretty(elements, true), { encoding: "utf8" });
