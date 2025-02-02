@@ -3,3 +3,5 @@ Downloaded: https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/ge
 
 Filtered to export only features with properties.dep_type == "collectivité d'outre-mer".
 Had to reverse coordinates, otherwise it would not display properly.
+
+Name in properties: "name"
