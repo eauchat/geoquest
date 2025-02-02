@@ -55,9 +55,13 @@
     "id": "france-departments",
     "name": "🇫🇷 France (departments)",
     "objectsKey": "departements",
-    "tags": [ "France", "Auvergne-Rhône-Alpes", "Bourgogne-Franche-Comté", "Bretagne", "Centre-Val de Loire", "Corse", "Grand Est", "Hauts-de-France", "Île-de-France", "Normandie", "Nouvelle-Aquitaine", "Occitanie", "Pays de la Loire", "Provence-Alpes-Côte d'Azur" ],
+    "tags": [ "France", "Auvergne-Rhône-Alpes", "Bourgogne-Franche-Comté", "Bretagne", "Centre-Val de Loire", "Corse", "Grand Est", "Hauts-de-France", "Île-de-France", "Normandie", "Nouvelle-Aquitaine", "Occitanie", "Pays de la Loire", "Provence-Alpes-Côte d'Azur", "Outre-Mer" ],
     "defaultTags": [ "France" ],
-    "mapSource": "https://github.com/DucarrougeR/Custom_Maps_topojson/blob/master/france_departements.json"
+    "maps": [
+        { "type": "basemap",  "filePathRelativeToQuestDir": "../../maps/world-land-withLakesAndRivers.geojson", "namePropertyKey": "name" },
+        { "type": "elements", "filePathRelativeToQuestDir": "departements-avec-outre-mer.geojson",              "namePropertyKey": "nom"  },
+        { "type": "elements", "filePathRelativeToQuestDir": "collectivités-outre-mer-et-nouméa.geojson",        "namePropertyKey": "name" }
+    ]
   },
   {
     "id": "italy-regions",
