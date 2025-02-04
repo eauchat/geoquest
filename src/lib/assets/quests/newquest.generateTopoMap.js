@@ -49,9 +49,9 @@ let maps = _.map(questObject.maps, function (mapObject, index) {
 let topo = topojson.topology(maps);
 let allGeometries = [];
 _.each(topo.objects, function (object) {
-  _.each(object.geometries, function (geometry) {
-    allGeometries.push(geometry);
-  });
+    _.each(object.geometries, function (geometry) {
+        allGeometries.push(geometry);
+    });
 });
 topo.objects = {}
 topo.objects[questObject.objectsKey] = {

@@ -36,11 +36,11 @@ if (!questObject.objectsKey || !mapFile.objects[questObject.objectsKey] || !mapF
 //\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 
 let questFilesPaths = {
-  elements: `./${questId}/elements.json`,
-  dirTranslation: `../../translations/en/quests/${questId}/`,
-  elementsTranslation: `../../translations/en/quests/${questId}/elements.json`,
-  groupsTranslation: `../../translations/en/quests/${questId}/groups.json`,
-  questsIndexTranslation: "../../translations/en/quests/index.json",
+    elements: `./${questId}/elements.json`,
+    dirTranslation: `../../translations/en/quests/${questId}/`,
+    elementsTranslation: `../../translations/en/quests/${questId}/elements.json`,
+    groupsTranslation: `../../translations/en/quests/${questId}/groups.json`,
+    questsIndexTranslation: "../../translations/en/quests/index.json",
 };
 
 // autogenerate elements file
@@ -48,17 +48,17 @@ if (!questObject.defaultTags) console.warn(`[WARNING] Missing default tags for y
 let elements = {};
 let colorIndex = 0;
 _.each(mapFile.objects[questObject.objectsKey].geometries, function (geometryObject, geometryIndex) {
-  if (!geometryObject.properties) return log.error(`Geometry with index "${geometryIndex}" is missing properties.`)
-  else if (!geometryObject.properties.name) return log.error(`Geometry with index "${geometryIndex}" is missing name in properties.`, geometryObject.properties);
-  if (geometryObject.properties.type !== "basemap") {
-    let elemObj = elements[geometryObject.properties.name] = _.clone(geometryObject.properties);
-    delete elemObj.name;
-    delete elemObj.type;
-    if (_.isUndefined(elemObj.color)) elemObj.color = colorIndex;
-    if (_.isUndefined(elemObj.tags)) elemObj.tags = questObject.defaultTags;
-  }
-  else elements[geometryObject.properties.name] = { tags: [ "BASEMAP" ] };
-  colorIndex = colorIndex < 3 ? colorIndex + 1 : 0;
+    if (!geometryObject.properties) return log.error(`Geometry with index "${geometryIndex}" is missing properties.`)
+    else if (!geometryObject.properties.name) return log.error(`Geometry with index "${geometryIndex}" is missing name in properties.`, geometryObject.properties);
+    if (geometryObject.properties.type !== "basemap") {
+        let elemObj = elements[geometryObject.properties.name] = _.clone(geometryObject.properties);
+        delete elemObj.name;
+        delete elemObj.type;
+        if (_.isUndefined(elemObj.color)) elemObj.color = colorIndex;
+        if (_.isUndefined(elemObj.tags)) elemObj.tags = questObject.defaultTags;
+    }
+    else elements[geometryObject.properties.name] = { tags: [ "BASEMAP" ] };
+    colorIndex = colorIndex < 3 ? colorIndex + 1 : 0;
 });
 fs.writeFileSync(questFilesPaths.elements, json_stringify_pretty(elements, true), { encoding: "utf8" });
 
@@ -73,10 +73,10 @@ fs.writeFileSync(questFilesPaths.elementsTranslation, json_stringify_pretty(elem
 // check if tags have been set
 if (!questObject.tags) console.warn(`[WARNING] Skipped generating groups translation file. Missing tags for your new quest, please add them into "assets/quests/index.json".`);
 else {
-  // autogenerate english groups translation file
-  let groupsEnglishTranslationFile = {};
-  _.each(questObject.tags, function (groupName) { groupsEnglishTranslationFile[groupName] = groupName; });
-  fs.writeFileSync(questFilesPaths.groupsTranslation, json_stringify_pretty(groupsEnglishTranslationFile, true), { encoding: "utf8" });
+    // autogenerate english groups translation file
+    let groupsEnglishTranslationFile = {};
+    _.each(questObject.tags, function (groupName) { groupsEnglishTranslationFile[groupName] = groupName; });
+    fs.writeFileSync(questFilesPaths.groupsTranslation, json_stringify_pretty(groupsEnglishTranslationFile, true), { encoding: "utf8" });
 };
 
 // add name of quest in english translation list of quests
@@ -93,8 +93,9 @@ fs.writeFileSync(questFilesPaths.questsIndexTranslation, json_stringify_pretty(q
 
 log.info(`If you didn't do so already, you should consider adding some achievements related to this new quest in "asset/data/achivements.json" and their translations in "translations/en/achievements.json".`)
 log.success(`Created "${questId}"
-  modified          "${questFilesPaths.questsIndexTranslation}"
-  created/modified  "`+ _.values(questFilesPaths).join(`"\n  created/modified "`));
+    modified          "${questFilesPaths.questsIndexTranslation}"
+    created/modified  "`+ _.values(questFilesPaths).join(`"\n  created/modified "`)
+);
 
 //\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 //\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
