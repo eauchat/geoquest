@@ -32,11 +32,15 @@ if (!questObject) abort(`You should create your new quest settings in "quests/in
 let maps = _.map(questObject.maps, function (mapObject, index) {
     let mapFile = JSON.parse(fs.readFileSync(`./${questId}/${mapObject.filePathRelativeToQuestDir}`))
     _.each(mapFile.features, function (feature) {
-        if (!feature.properties[mapObject.namePropertyKey]) log.error("Could not find name for feature with properties:", feature.properties);
+        var featureProperties = feature.properties;
+        if (!featureProperties[mapObject.namePropertyKey]) log.error("Could not find name for feature with properties:", featureProperties);
         feature.properties = {
-            name: (mapObject.type == "basemap" ? " " : "") + feature.properties[mapObject.namePropertyKey] + (mapObject.type == "basemap" ? " " : ""), // adding spaces around name of basemaps elements is just a trick to avoid having collisions between elements and basemap pieces having the same name (for example Luxembourg capital being same as Luxembourg country)
+            name: (mapObject.type == "basemap" ? " " : "") + featureProperties[mapObject.namePropertyKey] + (mapObject.type == "basemap" ? " " : ""), // adding spaces around name of basemaps elements is just a trick to avoid having collisions between elements and basemap pieces having the same name (for example Luxembourg capital being same as Luxembourg country)
             type: mapObject.type,
         };
+        _.each(["gq_color", "gq_tags", "gq_helper"], function (key) {
+            if (!_.isUndefined(featureProperties[key])) feature.properties[key.replace(/^gq_/, "")] = featureProperties[key];
+        });
     });
     return mapFile;
 });
