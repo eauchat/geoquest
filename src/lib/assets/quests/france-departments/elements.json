@@ -2,449 +2,449 @@
     " World ": {
         "tags": ["BASEMAP"]
     },
+    "Guadeloupe": {
+        "color": 1,
+        "tags": ["France","Outre-Mer","Départements d'Outre-Mer"]
+    },
+    "Martinique": {
+        "color": 2,
+        "tags": ["France","Outre-Mer","Départements d'Outre-Mer"]
+    },
+    "Guyane": {
+        "color": 3,
+        "tags": ["France","Outre-Mer","Départements d'Outre-Mer"]
+    },
+    "Mayotte": {
+        "color": 0,
+        "tags": ["France","Outre-Mer","Départements d'Outre-Mer"]
+    },
     "Ain": {
         "color": 1,
-        "tags": ["France", "Auvergne-Rhône-Alpes"]
+        "tags": ["France","Auvergne-Rhône-Alpes"]
     },
     "Aisne": {
         "color": 3,
-        "tags": ["France", "Hauts-de-France"]
+        "tags": ["France","Hauts-de-France"]
     },
     "Allier": {
         "color": 2,
-        "tags": ["France", "Auvergne-Rhône-Alpes"]
-    },
-    "Alpes-Maritimes": {
-        "color": 0,
-        "tags": ["France", "Provence-Alpes-Côte d'Azur"]
+        "tags": ["France","Auvergne-Rhône-Alpes"]
     },
     "Alpes-de-Haute-Provence": {
         "color": 1,
-        "tags": ["France", "Provence-Alpes-Côte d'Azur"]
-    },
-    "Ardennes": {
-        "color": 0,
-        "tags": ["France", "Grand Est"]
-    },
-    "Ardèche": {
-        "color": 3,
-        "tags": ["France", "Auvergne-Rhône-Alpes"]
-    },
-    "Ariège": {
-        "color": 3,
-        "tags": ["France", "Occitanie"]
-    },
-    "Aube": {
-        "color": 3,
-        "tags": ["France", "Grand Est"]
-    },
-    "Aude": {
-        "color": 0,
-        "tags": ["France", "Occitanie"]
-    },
-    "Aveyron": {
-        "color": 3,
-        "tags": ["France", "Occitanie"]
-    },
-    "Bas-Rhin": {
-        "color": 2,
-        "tags": ["France", "Grand Est"]
-    },
-    "Bouches-du-Rhône": {
-        "color": 3,
-        "tags": ["France", "Provence-Alpes-Côte d'Azur"]
-    },
-    "Calvados": {
-        "color": 0,
-        "tags": ["France", "Normandie"]
-    },
-    "Cantal": {
-        "color": 1,
-        "tags": ["France", "Auvergne-Rhône-Alpes"]
-    },
-    "Charente": {
-        "color": 0,
-        "tags": ["France", "Nouvelle-Aquitaine"]
-    },
-    "Charente-Maritime": {
-        "color": 1,
-        "tags": ["France", "Nouvelle-Aquitaine"]
-    },
-    "Cher": {
-        "color": 3,
-        "tags": ["France", "Centre-Val de Loire"]
-    },
-    "Corrèze": {
-        "color": 0,
-        "tags": ["France", "Nouvelle-Aquitaine"]
-    },
-    "Corse-du-Sud": {
-        "color": 2,
-        "tags": ["France", "Corse"]
-    },
-    "Creuse": {
-        "color": 1,
-        "tags": ["France", "Nouvelle-Aquitaine"]
-    },
-    "Côte-d'Or": {
-        "color": 2,
-        "tags": ["France", "Bourgogne-Franche-Comté"]
-    },
-    "Côtes-d'Armor": {
-        "color": 0,
-        "tags": ["France", "Bretagne"]
-    },
-    "Deux-Sèvres": {
-        "color": 3,
-        "tags": ["France", "Nouvelle-Aquitaine"]
-    },
-    "Dordogne": {
-        "color": 3,
-        "tags": ["France", "Nouvelle-Aquitaine"]
-    },
-    "Doubs": {
-        "color": 1,
-        "tags": ["France", "Bourgogne-Franche-Comté"]
-    },
-    "Drôme": {
-        "color": 2,
-        "tags": ["France", "Auvergne-Rhône-Alpes"]
-    },
-    "Essonne": {
-        "color": 3,
-        "tags": ["France", "Île-de-France"],
-        "helper": false
-    },
-    "Eure": {
-        "color": 3,
-        "tags": ["France", "Normandie"]
-    },
-    "Eure-et-Loir": {
-        "color": 0,
-        "tags": ["France", "Centre-Val de Loire"]
-    },
-    "Finistère": {
-        "color": 3,
-        "tags": ["France", "Bretagne"]
-    },
-    "Gard": {
-        "color": 1,
-        "tags": ["France", "Occitanie"]
-    },
-    "Gers": {
-        "color": 3,
-        "tags": ["France", "Occitanie"]
-    },
-    "Gironde": {
-        "color": 0,
-        "tags": ["France", "Nouvelle-Aquitaine"]
-    },
-    "Haut-Rhin": {
-        "color": 0,
-        "tags": ["France", "Grand Est"]
-    },
-    "Haute-Corse": {
-        "color": 1,
-        "tags": ["France", "Corse"]
-    },
-    "Haute-Garonne": {
-        "color": 2,
-        "tags": ["France", "Occitanie"]
-    },
-    "Haute-Loire": {
-        "color": 2,
-        "tags": ["France", "Auvergne-Rhône-Alpes"]
-    },
-    "Haute-Marne": {
-        "color": 0,
-        "tags": ["France", "Grand Est"]
-    },
-    "Haute-Savoie": {
-        "color": 3,
-        "tags": ["France", "Auvergne-Rhône-Alpes"]
-    },
-    "Haute-Saône": {
-        "color": 3,
-        "tags": ["France", "Bourgogne-Franche-Comté"]
-    },
-    "Haute-Vienne": {
-        "color": 2,
-        "tags": ["France", "Nouvelle-Aquitaine"]
+        "tags": ["France","Provence-Alpes-Côte d'Azur"]
     },
     "Hautes-Alpes": {
         "color": 3,
-        "tags": ["France", "Provence-Alpes-Côte d'Azur"]
+        "tags": ["France","Provence-Alpes-Côte d'Azur"]
     },
-    "Hautes-Pyrénées": {
-        "color": 1,
-        "tags": ["France", "Occitanie"]
-    },
-    "Hauts-de-Seine": {
+    "Alpes-Maritimes": {
         "color": 0,
-        "tags": ["France", "Île-de-France"],
-        "helper": false
+        "tags": ["France","Provence-Alpes-Côte d'Azur"]
+    },
+    "Corse-du-Sud": {
+        "color": 2,
+        "tags": ["France","Corse"]
+    },
+    "Haute-Corse": {
+        "color": 1,
+        "tags": ["France","Corse"]
+    },
+    "Ardèche": {
+        "color": 3,
+        "tags": ["France","Auvergne-Rhône-Alpes"]
+    },
+    "Ardennes": {
+        "color": 0,
+        "tags": ["France","Grand Est"]
+    },
+    "Ariège": {
+        "color": 3,
+        "tags": ["France","Occitanie"]
+    },
+    "Aube": {
+        "color": 3,
+        "tags": ["France","Grand Est"]
+    },
+    "Aude": {
+        "color": 0,
+        "tags": ["France","Occitanie"]
+    },
+    "Aveyron": {
+        "color": 3,
+        "tags": ["France","Occitanie"]
+    },
+    "Bouches-du-Rhône": {
+        "color": 3,
+        "tags": ["France","Provence-Alpes-Côte d'Azur"]
+    },
+    "Calvados": {
+        "color": 0,
+        "tags": ["France","Normandie"]
+    },
+    "Cantal": {
+        "color": 1,
+        "tags": ["France","Auvergne-Rhône-Alpes"]
+    },
+    "Charente": {
+        "color": 0,
+        "tags": ["France","Nouvelle-Aquitaine"]
+    },
+    "Charente-Maritime": {
+        "color": 1,
+        "tags": ["France","Nouvelle-Aquitaine"]
+    },
+    "Cher": {
+        "color": 3,
+        "tags": ["France","Centre-Val de Loire"]
+    },
+    "Corrèze": {
+        "color": 0,
+        "tags": ["France","Nouvelle-Aquitaine"]
+    },
+    "Côte-d'Or": {
+        "color": 2,
+        "tags": ["France","Bourgogne-Franche-Comté"]
+    },
+    "Côtes-d'Armor": {
+        "color": 0,
+        "tags": ["France","Bretagne"]
+    },
+    "Creuse": {
+        "color": 1,
+        "tags": ["France","Nouvelle-Aquitaine"]
+    },
+    "Dordogne": {
+        "color": 3,
+        "tags": ["France","Nouvelle-Aquitaine"]
+    },
+    "Doubs": {
+        "color": 1,
+        "tags": ["France","Bourgogne-Franche-Comté"]
+    },
+    "Drôme": {
+        "color": 2,
+        "tags": ["France","Auvergne-Rhône-Alpes"]
+    },
+    "Eure": {
+        "color": 3,
+        "tags": ["France","Normandie"]
+    },
+    "Eure-et-Loir": {
+        "color": 0,
+        "tags": ["France","Centre-Val de Loire"]
+    },
+    "Finistère": {
+        "color": 3,
+        "tags": ["France","Bretagne"]
+    },
+    "Gard": {
+        "color": 1,
+        "tags": ["France","Occitanie"]
+    },
+    "Haute-Garonne": {
+        "color": 2,
+        "tags": ["France","Occitanie"]
+    },
+    "Gers": {
+        "color": 3,
+        "tags": ["France","Occitanie"]
+    },
+    "Gironde": {
+        "color": 0,
+        "tags": ["France","Nouvelle-Aquitaine"]
     },
     "Hérault": {
         "color": 2,
-        "tags": ["France", "Occitanie"]
+        "tags": ["France","Occitanie"]
     },
     "Ille-et-Vilaine": {
         "color": 1,
-        "tags": ["France", "Bretagne"]
+        "tags": ["France","Bretagne"]
     },
     "Indre": {
         "color": 0,
-        "tags": ["France", "Centre-Val de Loire"]
+        "tags": ["France","Centre-Val de Loire"]
     },
     "Indre-et-Loire": {
         "color": 2,
-        "tags": ["France", "Centre-Val de Loire"]
+        "tags": ["France","Centre-Val de Loire"]
     },
     "Isère": {
         "color": 0,
-        "tags": ["France", "Auvergne-Rhône-Alpes"]
+        "tags": ["France","Auvergne-Rhône-Alpes"]
     },
     "Jura": {
         "color": 0,
-        "tags": ["France", "Bourgogne-Franche-Comté"]
+        "tags": ["France","Bourgogne-Franche-Comté"]
     },
     "Landes": {
         "color": 2,
-        "tags": ["France", "Nouvelle-Aquitaine"]
+        "tags": ["France","Nouvelle-Aquitaine"]
     },
     "Loir-et-Cher": {
         "color": 1,
-        "tags": ["France", "Centre-Val de Loire"]
+        "tags": ["France","Centre-Val de Loire"]
     },
     "Loire": {
         "color": 1,
-        "tags": ["France", "Auvergne-Rhône-Alpes"]
+        "tags": ["France","Auvergne-Rhône-Alpes"]
+    },
+    "Haute-Loire": {
+        "color": 2,
+        "tags": ["France","Auvergne-Rhône-Alpes"]
     },
     "Loire-Atlantique": {
         "color": 3,
-        "tags": ["France", "Pays de la Loire"]
+        "tags": ["France","Pays de la Loire"]
     },
     "Loiret": {
         "color": 2,
-        "tags": ["France", "Centre-Val de Loire"]
+        "tags": ["France","Centre-Val de Loire"]
     },
     "Lot": {
         "color": 2,
-        "tags": ["France", "Occitanie"]
+        "tags": ["France","Occitanie"]
     },
     "Lot-et-Garonne": {
         "color": 1,
-        "tags": ["France", "Nouvelle-Aquitaine"]
+        "tags": ["France","Nouvelle-Aquitaine"]
     },
     "Lozère": {
         "color": 0,
-        "tags": ["France", "Occitanie"]
+        "tags": ["France","Occitanie"]
     },
     "Maine-et-Loire": {
         "color": 0,
-        "tags": ["France", "Pays de la Loire"]
+        "tags": ["France","Pays de la Loire"]
     },
     "Manche": {
         "color": 3,
-        "tags": ["France", "Normandie"]
+        "tags": ["France","Normandie"]
     },
     "Marne": {
         "color": 1,
-        "tags": ["France", "Grand Est"]
+        "tags": ["France","Grand Est"]
+    },
+    "Haute-Marne": {
+        "color": 0,
+        "tags": ["France","Grand Est"]
     },
     "Mayenne": {
         "color": 2,
-        "tags": ["France", "Pays de la Loire"]
+        "tags": ["France","Pays de la Loire"]
     },
     "Meurthe-et-Moselle": {
         "color": 0,
-        "tags": ["France", "Grand Est"]
+        "tags": ["France","Grand Est"]
     },
     "Meuse": {
         "color": 2,
-        "tags": ["France", "Grand Est"]
+        "tags": ["France","Grand Est"]
     },
     "Morbihan": {
         "color": 2,
-        "tags": ["France", "Bretagne"]
+        "tags": ["France","Bretagne"]
     },
     "Moselle": {
         "color": 3,
-        "tags": ["France", "Grand Est"]
+        "tags": ["France","Grand Est"]
     },
     "Nièvre": {
         "color": 0,
-        "tags": ["France", "Bourgogne-Franche-Comté"]
+        "tags": ["France","Bourgogne-Franche-Comté"]
     },
     "Nord": {
         "color": 1,
-        "tags": ["France", "Hauts-de-France"]
+        "tags": ["France","Hauts-de-France"]
     },
     "Oise": {
         "color": 1,
-        "tags": ["France", "Hauts-de-France"]
+        "tags": ["France","Hauts-de-France"]
     },
     "Orne": {
         "color": 1,
-        "tags": ["France", "Normandie"]
-    },
-    "Paris": {
-        "color": 3,
-        "tags": ["France", "Île-de-France"],
-        "helper": false
+        "tags": ["France","Normandie"]
     },
     "Pas-de-Calais": {
         "color": 2,
-        "tags": ["France", "Hauts-de-France"]
+        "tags": ["France","Hauts-de-France"]
     },
     "Puy-de-Dôme": {
         "color": 3,
-        "tags": ["France", "Auvergne-Rhône-Alpes"]
+        "tags": ["France","Auvergne-Rhône-Alpes"]
     },
     "Pyrénées-Atlantiques": {
         "color": 0,
-        "tags": ["France", "Nouvelle-Aquitaine"]
+        "tags": ["France","Nouvelle-Aquitaine"]
+    },
+    "Hautes-Pyrénées": {
+        "color": 1,
+        "tags": ["France","Occitanie"]
     },
     "Pyrénées-Orientales": {
         "color": 1,
-        "tags": ["France", "Occitanie"]
+        "tags": ["France","Occitanie"]
+    },
+    "Bas-Rhin": {
+        "color": 2,
+        "tags": ["France","Grand Est"]
+    },
+    "Haut-Rhin": {
+        "color": 0,
+        "tags": ["France","Grand Est"]
     },
     "Rhône": {
         "color": 2,
-        "tags": ["France", "Auvergne-Rhône-Alpes"]
+        "tags": ["France","Auvergne-Rhône-Alpes"]
     },
-    "Sarthe": {
+    "Haute-Saône": {
         "color": 3,
-        "tags": ["France", "Pays de la Loire"]
-    },
-    "Savoie": {
-        "color": 2,
-        "tags": ["France", "Auvergne-Rhône-Alpes"]
+        "tags": ["France","Bourgogne-Franche-Comté"]
     },
     "Saône-et-Loire": {
         "color": 3,
-        "tags": ["France", "Bourgogne-Franche-Comté"]
+        "tags": ["France","Bourgogne-Franche-Comté"]
+    },
+    "Sarthe": {
+        "color": 3,
+        "tags": ["France","Pays de la Loire"]
+    },
+    "Savoie": {
+        "color": 2,
+        "tags": ["France","Auvergne-Rhône-Alpes"]
+    },
+    "Haute-Savoie": {
+        "color": 3,
+        "tags": ["France","Auvergne-Rhône-Alpes"]
+    },
+    "Paris": {
+        "color": 3,
+        "tags": ["France","Île-de-France"],
+        "helper": false
     },
     "Seine-Maritime": {
         "color": 2,
-        "tags": ["France", "Normandie"]
-    },
-    "Seine-Saint-Denis": {
-        "color": 1,
-        "tags": ["France", "Île-de-France"],
-        "helper": false
+        "tags": ["France","Normandie"]
     },
     "Seine-et-Marne": {
         "color": 0,
-        "tags": ["France", "Île-de-France"],
+        "tags": ["France","Île-de-France"],
         "helper": false
+    },
+    "Yvelines": {
+        "color": 1,
+        "tags": ["France","Île-de-France"],
+        "helper": false
+    },
+    "Deux-Sèvres": {
+        "color": 3,
+        "tags": ["France","Nouvelle-Aquitaine"]
     },
     "Somme": {
         "color": 0,
-        "tags": ["France", "Hauts-de-France"]
+        "tags": ["France","Hauts-de-France"]
     },
     "Tarn": {
         "color": 1,
-        "tags": ["France", "Occitanie"]
+        "tags": ["France","Occitanie"]
     },
     "Tarn-et-Garonne": {
         "color": 0,
-        "tags": ["France", "Occitanie"]
+        "tags": ["France","Occitanie"]
+    },
+    "Var": {
+        "color": 2,
+        "tags": ["France","Provence-Alpes-Côte d'Azur"]
+    },
+    "Vaucluse": {
+        "color": 0,
+        "tags": ["France","Provence-Alpes-Côte d'Azur"]
+    },
+    "Vendée": {
+        "color": 2,
+        "tags": ["France","Pays de la Loire"]
+    },
+    "Vienne": {
+        "color": 1,
+        "tags": ["France","Nouvelle-Aquitaine"]
+    },
+    "Haute-Vienne": {
+        "color": 2,
+        "tags": ["France","Nouvelle-Aquitaine"]
+    },
+    "Vosges": {
+        "color": 1,
+        "tags": ["France","Grand Est"]
+    },
+    "Yonne": {
+        "color": 1,
+        "tags": ["France","Bourgogne-Franche-Comté"]
     },
     "Territoire de Belfort": {
         "color": 2,
-        "tags": ["France", "Bourgogne-Franche-Comté"],
+        "tags": ["France","Bourgogne-Franche-Comté"],
         "helper": false
     },
-    "Val-d'Oise": {
-        "color": 2,
-        "tags": ["France", "Île-de-France"],
+    "Essonne": {
+        "color": 3,
+        "tags": ["France","Île-de-France"],
+        "helper": false
+    },
+    "Hauts-de-Seine": {
+        "color": 0,
+        "tags": ["France","Île-de-France"],
+        "helper": false
+    },
+    "Seine-Saint-Denis": {
+        "color": 1,
+        "tags": ["France","Île-de-France"],
         "helper": false
     },
     "Val-de-Marne": {
         "color": 2,
-        "tags": ["France", "Île-de-France"],
+        "tags": ["France","Île-de-France"],
         "helper": false
     },
-    "Var": {
+    "Val-d'Oise": {
         "color": 2,
-        "tags": ["France", "Provence-Alpes-Côte d'Azur"]
-    },
-    "Vaucluse": {
-        "color": 0,
-        "tags": ["France", "Provence-Alpes-Côte d'Azur"]
-    },
-    "Vendée": {
-        "color": 2,
-        "tags": ["France", "Pays de la Loire"]
-    },
-    "Vienne": {
-        "color": 1,
-        "tags": ["France", "Nouvelle-Aquitaine"]
-    },
-    "Vosges": {
-        "color": 1,
-        "tags": ["France", "Grand Est"]
-    },
-    "Yonne": {
-        "color": 1,
-        "tags": ["France", "Bourgogne-Franche-Comté"]
-    },
-    "Yvelines": {
-        "color": 1,
-        "tags": ["France", "Île-de-France"],
+        "tags": ["France","Île-de-France"],
         "helper": false
-    },
-    "Guadeloupe": {
-        "color": 1,
-        "tags": ["France", "Outre-Mer", "Départements d'Outre-Mer"]
-    },
-    "Martinique": {
-        "color": 2,
-        "tags": ["France", "Outre-Mer", "Départements d'Outre-Mer"]
-    },
-    "Guyane": {
-        "color": 3,
-        "tags": ["France", "Outre-Mer", "Départements d'Outre-Mer"]
-    },
-    "Mayotte": {
-        "color": 0,
-        "tags": ["France", "Outre-Mer", "Départements d'Outre-Mer"]
     },
     "La Réunion": {
         "color": 1,
-        "tags": ["France", "Outre-Mer", "Départements d'Outre-Mer"]
+        "tags": ["France","Outre-Mer","Départements d'Outre-Mer"]
     },
     "Saint-Martin": {
         "color": 2,
-        "tags": ["France", "Outre-Mer", "Collectivités d'Outre-Mer"]
+        "tags": ["France","Outre-Mer","Collectivités d'Outre-Mer"]
     },
     "Polynésie française": {
         "color": 3,
-        "tags": ["France", "Outre-Mer", "Collectivités d'Outre-Mer"]
-    },
-    "Saint-Barthélemy": {
-        "color": 0,
-        "tags": ["France", "Outre-Mer", "Collectivités d'Outre-Mer"]
-    },
-    "Saint-Pierre-et-Miquelon": {
-        "color": 1,
-        "tags": ["France", "Outre-Mer", "Collectivités d'Outre-Mer"]
-    },
-    "Wallis et Futuna": {
-        "color": 2,
-        "tags": ["France", "Outre-Mer", "Collectivités d'Outre-Mer"]
+        "tags": ["France","Outre-Mer","Collectivités d'Outre-Mer"]
     },
     "Nouvelle-Calédonie": {
         "color": 0,
-        "tags": ["France", "Outre-Mer"]
+        "tags": ["France","Outre-Mer"]
+    },
+    "Saint-Pierre-et-Miquelon": {
+        "color": 1,
+        "tags": ["France","Outre-Mer","Collectivités d'Outre-Mer"]
+    },
+    "Wallis et Futuna": {
+        "color": 2,
+        "tags": ["France","Outre-Mer","Collectivités d'Outre-Mer"]
     },
     "Terres australes et antarctiques françaises": {
         "color": 3,
-        "tags": ["France", "Outre-Mer", "Territoire d'Outre-Mer"]
+        "tags": ["France","Outre-Mer","Territoire d'Outre-Mer"]
+    },
+    "Saint-Barthélemy": {
+        "color": 0,
+        "tags": ["France","Outre-Mer","Collectivités d'Outre-Mer"]
     },
     "Île de Clipperton": {
         "color": 1,
-        "tags": ["France", "Outre-Mer", "Propriété domaniale"]
+        "tags": ["France","Outre-Mer","Propriété domaniale"]
     }
 }

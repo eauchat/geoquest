@@ -1,7 +1,7 @@
 From: https://public.opendatasoft.com/explore/dataset/georef-france-region/export/?disjunctive.reg_name&sort=year
 Downloaded: https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/georef-france-region/exports/geojson?lang=en&timezone=UTC
-
-Filtered to export only features with properties.dep_type == "collectivité d'outre-mer".
-Had to reverse coordinates, otherwise it would not display properly.
-
+Processing:
+    - Filtered to export only features with properties.dep_type == "collectivité d'outre-mer".
+    - Had to reverse coordinates, otherwise it would not display properly.
+    - Rounded coordinates
 Name in properties: "name"
