@@ -20,8 +20,8 @@ export const abort = function () {
 };
 
 export const json_stringify_pretty = function (object, morePretty) {
-  // var string = JSON.stringify(object, null, 2); // 2 spaces instead of tab
-  var string = JSON.stringify(object, null, "\t");
+  var string = JSON.stringify(object, null, 4); // 4 spaces instead of tab
+  // var string = JSON.stringify(object, null, "\t"); // tab instead of 4 spaces
   // do not exten arrays, otherwise it takes too much space
   if (morePretty) _.each(string.match(/\[[^\][{}]*\]/g), function (subString) {
     // remove spaces and line jumps
