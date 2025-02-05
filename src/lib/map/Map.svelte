@@ -73,7 +73,7 @@
         {#each mapData as data}
             {#if data[0]?.properties?.helper}
                 <CountryHelper {data} {path} {strokeWidth} {...$$restProps} />
-            {:else if data[0]?.properties?.isIsland && data[0]?.properties?.squareKm < 30000}
+            {:else if data[0]?.properties?.isIsland && data[0]?.properties?.squareKm < 30000 && data[0]?.properties.type !== "basemap"}
                 <IslandHelper {data} {path} {scale} {strokeWidth} {...$$restProps} />
             {/if}
         {/each}
