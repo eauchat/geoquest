@@ -1,3 +1,11 @@
 From: https://github.com/Stefie/geojson-world
 Downloaded: https://raw.githubusercontent.com/Stefie/geojson-world/refs/heads/master/capitals.geojson
+Processed:
+    - Removed uninhabited lands: "Bouvet Island", "Heard Island and McDonald Islands", "British Indian Ocean Territory", "French Southern Territories"
+    - Removed occupied states which cannot have a capital: "Palestinian Territory", "Western Sahara"
+    - Removed non state: "European Union", "Antarctica", "Asia &amp; Pacific"
+    - Added missing city name to: "Macao", "Nauru", "Tokelau"
+    - Removed Vatican because it's just too much in the same place as Rome
+    - Tweaked a tiny bit position of a couple of capitals that where to near each other
+    - Added gq_color and gq_tags values in each feature properties.
 Name in properties: "city"

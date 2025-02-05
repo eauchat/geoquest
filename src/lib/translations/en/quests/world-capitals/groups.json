@@ -1,3 +1,9 @@
 {
-	"World": "World"
+    "World": "World",
+    "Asia": "Asia",
+    "America": "America",
+    "Europe": "Europe",
+    "Oceania": "Oceania",
+    "Middle East": "Middle East",
+    "Caribbean": "Caribbean"
 }

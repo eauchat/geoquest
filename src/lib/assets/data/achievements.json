@@ -141,24 +141,73 @@
         }
     },
     {
-      "slug": "all-italian-provinces",
-      "quest": "italy-provinces",
-      "extra": {
-        "tags": [ "Italy" ]
-      }
+        "slug": "all-italian-provinces",
+        "quest": "italy-provinces",
+        "extra": {
+            "tags": [ "Italy" ]
+        }
     },
     {
-      "slug": "all-canadian-provinces",
-      "quest": "canada-provinces",
-      "extra": {
-        "tags": [ "Canada" ]
-      }
+        "slug": "all-canadian-provinces",
+        "quest": "canada-provinces",
+        "extra": {
+            "tags": [ "Canada" ]
+        }
     },
     {
-      "slug": "all-world-capitals",
-      "quest": "world-capitals",
-      "extra": {
-        "tags": [ "World" ]
-      }
+        "slug": "all-american-capitals",
+        "quest": "world-capitals",
+        "extra": {
+            "tags": [ "America" ]
+        }
+    },
+    {
+        "slug": "all-caribbean-capitals",
+        "quest": "world-capitals",
+        "extra": {
+            "tags": [ "Caribbean" ]
+        }
+    },
+    {
+        "slug": "all-european-capitals",
+        "quest": "world-capitals",
+        "extra": {
+            "tags": [ "Europe" ]
+        }
+    },
+    {
+        "slug": "all-asian-capitals",
+        "quest": "world-capitals",
+        "extra": {
+            "tags": [ "Asia" ]
+        }
+    },
+    {
+        "slug": "all-african-capitals",
+        "quest": "world-capitals",
+        "extra": {
+            "tags": [ "Africa" ]
+        }
+    },
+    {
+        "slug": "all-oceanian-capitals",
+        "quest": "world-capitals",
+        "extra": {
+            "tags": [ "Oceania" ]
+        }
+    },
+    {
+        "slug": "all-middleeastern-capitals",
+        "quest": "world-capitals",
+        "extra": {
+            "tags": [ "Middle East" ]
+        }
+    },
+    {
+        "slug": "all-world-capitals",
+        "quest": "world-capitals",
+        "extra": {
+            "tags": [ "World" ]
+        }
     }
 ]

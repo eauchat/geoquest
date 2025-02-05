@@ -16,7 +16,7 @@
     "id": "world-capitals",
     "name": "🌎 Capitals of the world",
     "objectsKey": "capitals",
-    "tags": [ "World" ],
+    "tags": [ "World", "Asia", "America", "Europe", "Oceania", "Middle East", "Caribbean" ],
     "defaultTags": [ "World" ],
     "maps": [
         { "type": "basemap",  "filePathRelativeToQuestDir": "../../basemaps/world-countries-simple.geojson", "namePropertyKey": "name" },

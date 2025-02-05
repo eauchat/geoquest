@@ -1,1443 +1,1451 @@
 {
-	" Afghanistan ": {
-		"tags": ["BASEMAP"]
-	},
-	" Angola ": {
-		"tags": ["BASEMAP"]
-	},
-	" Albania ": {
-		"tags": ["BASEMAP"]
-	},
-	" United Arab Emirates ": {
-		"tags": ["BASEMAP"]
-	},
-	" Argentina ": {
-		"tags": ["BASEMAP"]
-	},
-	" Armenia ": {
-		"tags": ["BASEMAP"]
-	},
-	" Australia ": {
-		"tags": ["BASEMAP"]
-	},
-	" Austria ": {
-		"tags": ["BASEMAP"]
-	},
-	" Azerbaijan ": {
-		"tags": ["BASEMAP"]
-	},
-	" Burundi ": {
-		"tags": ["BASEMAP"]
-	},
-	" Belgium ": {
-		"tags": ["BASEMAP"]
-	},
-	" Benin ": {
-		"tags": ["BASEMAP"]
-	},
-	" Burkina Faso ": {
-		"tags": ["BASEMAP"]
-	},
-	" Bangladesh ": {
-		"tags": ["BASEMAP"]
-	},
-	" Bulgaria ": {
-		"tags": ["BASEMAP"]
-	},
-	" The Bahamas ": {
-		"tags": ["BASEMAP"]
-	},
-	" Bosnia and Herzegovina ": {
-		"tags": ["BASEMAP"]
-	},
-	" Belarus ": {
-		"tags": ["BASEMAP"]
-	},
-	" Belize ": {
-		"tags": ["BASEMAP"]
-	},
-	" Bolivia ": {
-		"tags": ["BASEMAP"]
-	},
-	" Brazil ": {
-		"tags": ["BASEMAP"]
-	},
-	" Brunei ": {
-		"tags": ["BASEMAP"]
-	},
-	" Bhutan ": {
-		"tags": ["BASEMAP"]
-	},
-	" Botswana ": {
-		"tags": ["BASEMAP"]
-	},
-	" Central African Republic ": {
-		"tags": ["BASEMAP"]
-	},
-	" Canada ": {
-		"tags": ["BASEMAP"]
-	},
-	" Switzerland ": {
-		"tags": ["BASEMAP"]
-	},
-	" Chile ": {
-		"tags": ["BASEMAP"]
-	},
-	" China ": {
-		"tags": ["BASEMAP"]
-	},
-	" Ivory Coast ": {
-		"tags": ["BASEMAP"]
-	},
-	" Cameroon ": {
-		"tags": ["BASEMAP"]
-	},
-	" Democratic Republic of the Congo ": {
-		"tags": ["BASEMAP"]
-	},
-	" Republic of the Congo ": {
-		"tags": ["BASEMAP"]
-	},
-	" Colombia ": {
-		"tags": ["BASEMAP"]
-	},
-	" Costa Rica ": {
-		"tags": ["BASEMAP"]
-	},
-	" Cuba ": {
-		"tags": ["BASEMAP"]
-	},
-	" Northern Cyprus ": {
-		"tags": ["BASEMAP"]
-	},
-	" Cyprus ": {
-		"tags": ["BASEMAP"]
-	},
-	" Czech Republic ": {
-		"tags": ["BASEMAP"]
-	},
-	" Germany ": {
-		"tags": ["BASEMAP"]
-	},
-	" Djibouti ": {
-		"tags": ["BASEMAP"]
-	},
-	" Denmark ": {
-		"tags": ["BASEMAP"]
-	},
-	" Dominican Republic ": {
-		"tags": ["BASEMAP"]
-	},
-	" Algeria ": {
-		"tags": ["BASEMAP"]
-	},
-	" Ecuador ": {
-		"tags": ["BASEMAP"]
-	},
-	" Egypt ": {
-		"tags": ["BASEMAP"]
-	},
-	" Eritrea ": {
-		"tags": ["BASEMAP"]
-	},
-	" Spain ": {
-		"tags": ["BASEMAP"]
-	},
-	" Estonia ": {
-		"tags": ["BASEMAP"]
-	},
-	" Ethiopia ": {
-		"tags": ["BASEMAP"]
-	},
-	" Finland ": {
-		"tags": ["BASEMAP"]
-	},
-	" Fiji ": {
-		"tags": ["BASEMAP"]
-	},
-	" Falkland Islands ": {
-		"tags": ["BASEMAP"]
-	},
-	" France ": {
-		"tags": ["BASEMAP"]
-	},
-	" Gabon ": {
-		"tags": ["BASEMAP"]
-	},
-	" England ": {
-		"tags": ["BASEMAP"]
-	},
-	" Georgia ": {
-		"tags": ["BASEMAP"]
-	},
-	" Ghana ": {
-		"tags": ["BASEMAP"]
-	},
-	" Guinea ": {
-		"tags": ["BASEMAP"]
-	},
-	" Gambia ": {
-		"tags": ["BASEMAP"]
-	},
-	" Guinea Bissau ": {
-		"tags": ["BASEMAP"]
-	},
-	" Equatorial Guinea ": {
-		"tags": ["BASEMAP"]
-	},
-	" Greece ": {
-		"tags": ["BASEMAP"]
-	},
-	" Greenland ": {
-		"tags": ["BASEMAP"]
-	},
-	" Guatemala ": {
-		"tags": ["BASEMAP"]
-	},
-	" Guyana ": {
-		"tags": ["BASEMAP"]
-	},
-	" Honduras ": {
-		"tags": ["BASEMAP"]
-	},
-	" Croatia ": {
-		"tags": ["BASEMAP"]
-	},
-	" Haiti ": {
-		"tags": ["BASEMAP"]
-	},
-	" Hungary ": {
-		"tags": ["BASEMAP"]
-	},
-	" Indonesia ": {
-		"tags": ["BASEMAP"]
-	},
-	" India ": {
-		"tags": ["BASEMAP"]
-	},
-	" Ireland ": {
-		"tags": ["BASEMAP"]
-	},
-	" Iran ": {
-		"tags": ["BASEMAP"]
-	},
-	" Iraq ": {
-		"tags": ["BASEMAP"]
-	},
-	" Iceland ": {
-		"tags": ["BASEMAP"]
-	},
-	" Israel ": {
-		"tags": ["BASEMAP"]
-	},
-	" Italy ": {
-		"tags": ["BASEMAP"]
-	},
-	" Jamaica ": {
-		"tags": ["BASEMAP"]
-	},
-	" Jordan ": {
-		"tags": ["BASEMAP"]
-	},
-	" Japan ": {
-		"tags": ["BASEMAP"]
-	},
-	" Kazakhstan ": {
-		"tags": ["BASEMAP"]
-	},
-	" Kenya ": {
-		"tags": ["BASEMAP"]
-	},
-	" Kyrgyzstan ": {
-		"tags": ["BASEMAP"]
-	},
-	" Cambodia ": {
-		"tags": ["BASEMAP"]
-	},
-	" South Korea ": {
-		"tags": ["BASEMAP"]
-	},
-	" Kosovo ": {
-		"tags": ["BASEMAP"]
-	},
-	" Kuwait ": {
-		"tags": ["BASEMAP"]
-	},
-	" Laos ": {
-		"tags": ["BASEMAP"]
-	},
-	" Lebanon ": {
-		"tags": ["BASEMAP"]
-	},
-	" Liberia ": {
-		"tags": ["BASEMAP"]
-	},
-	" Libya ": {
-		"tags": ["BASEMAP"]
-	},
-	" Sri Lanka ": {
-		"tags": ["BASEMAP"]
-	},
-	" Lesotho ": {
-		"tags": ["BASEMAP"]
-	},
-	" Lithuania ": {
-		"tags": ["BASEMAP"]
-	},
-	" Luxembourg ": {
-		"tags": ["BASEMAP"]
-	},
-	" Latvia ": {
-		"tags": ["BASEMAP"]
-	},
-	" Morocco ": {
-		"tags": ["BASEMAP"]
-	},
-	" Moldova ": {
-		"tags": ["BASEMAP"]
-	},
-	" Madagascar ": {
-		"tags": ["BASEMAP"]
-	},
-	" Mexico ": {
-		"tags": ["BASEMAP"]
-	},
-	" North Macedonia ": {
-		"tags": ["BASEMAP"]
-	},
-	" Mali ": {
-		"tags": ["BASEMAP"]
-	},
-	" Myanmar ": {
-		"tags": ["BASEMAP"]
-	},
-	" Montenegro ": {
-		"tags": ["BASEMAP"]
-	},
-	" Mongolia ": {
-		"tags": ["BASEMAP"]
-	},
-	" Mozambique ": {
-		"tags": ["BASEMAP"]
-	},
-	" Mauritania ": {
-		"tags": ["BASEMAP"]
-	},
-	" Malawi ": {
-		"tags": ["BASEMAP"]
-	},
-	" Malaysia ": {
-		"tags": ["BASEMAP"]
-	},
-	" Namibia ": {
-		"tags": ["BASEMAP"]
-	},
-	" New Caledonia ": {
-		"tags": ["BASEMAP"]
-	},
-	" Niger ": {
-		"tags": ["BASEMAP"]
-	},
-	" Nigeria ": {
-		"tags": ["BASEMAP"]
-	},
-	" Nicaragua ": {
-		"tags": ["BASEMAP"]
-	},
-	" Netherlands ": {
-		"tags": ["BASEMAP"]
-	},
-	" Norway ": {
-		"tags": ["BASEMAP"]
-	},
-	" Nepal ": {
-		"tags": ["BASEMAP"]
-	},
-	" New Zealand ": {
-		"tags": ["BASEMAP"]
-	},
-	" Oman ": {
-		"tags": ["BASEMAP"]
-	},
-	" Pakistan ": {
-		"tags": ["BASEMAP"]
-	},
-	" Panama ": {
-		"tags": ["BASEMAP"]
-	},
-	" Peru ": {
-		"tags": ["BASEMAP"]
-	},
-	" Philippines ": {
-		"tags": ["BASEMAP"]
-	},
-	" Papua New Guinea ": {
-		"tags": ["BASEMAP"]
-	},
-	" Poland ": {
-		"tags": ["BASEMAP"]
-	},
-	" Puerto Rico ": {
-		"tags": ["BASEMAP"]
-	},
-	" North Korea ": {
-		"tags": ["BASEMAP"]
-	},
-	" Portugal ": {
-		"tags": ["BASEMAP"]
-	},
-	" Paraguay ": {
-		"tags": ["BASEMAP"]
-	},
-	" Qatar ": {
-		"tags": ["BASEMAP"]
-	},
-	" Romania ": {
-		"tags": ["BASEMAP"]
-	},
-	" Russia ": {
-		"tags": ["BASEMAP"]
-	},
-	" Rwanda ": {
-		"tags": ["BASEMAP"]
-	},
-	" Western Sahara ": {
-		"tags": ["BASEMAP"]
-	},
-	" Saudi Arabia ": {
-		"tags": ["BASEMAP"]
-	},
-	" Sudan ": {
-		"tags": ["BASEMAP"]
-	},
-	" South Sudan ": {
-		"tags": ["BASEMAP"]
-	},
-	" Senegal ": {
-		"tags": ["BASEMAP"]
-	},
-	" Solomon Islands ": {
-		"tags": ["BASEMAP"]
-	},
-	" Sierra Leone ": {
-		"tags": ["BASEMAP"]
-	},
-	" El Salvador ": {
-		"tags": ["BASEMAP"]
-	},
-	" Somaliland ": {
-		"tags": ["BASEMAP"]
-	},
-	" Somalia ": {
-		"tags": ["BASEMAP"]
-	},
-	" Republic of Serbia ": {
-		"tags": ["BASEMAP"]
-	},
-	" Suriname ": {
-		"tags": ["BASEMAP"]
-	},
-	" Slovakia ": {
-		"tags": ["BASEMAP"]
-	},
-	" Slovenia ": {
-		"tags": ["BASEMAP"]
-	},
-	" Sweden ": {
-		"tags": ["BASEMAP"]
-	},
-	" Swaziland ": {
-		"tags": ["BASEMAP"]
-	},
-	" Syria ": {
-		"tags": ["BASEMAP"]
-	},
-	" Chad ": {
-		"tags": ["BASEMAP"]
-	},
-	" Togo ": {
-		"tags": ["BASEMAP"]
-	},
-	" Thailand ": {
-		"tags": ["BASEMAP"]
-	},
-	" Tajikistan ": {
-		"tags": ["BASEMAP"]
-	},
-	" Turkmenistan ": {
-		"tags": ["BASEMAP"]
-	},
-	" East Timor ": {
-		"tags": ["BASEMAP"]
-	},
-	" Trinidad and Tobago ": {
-		"tags": ["BASEMAP"]
-	},
-	" Tunisia ": {
-		"tags": ["BASEMAP"]
-	},
-	" Turkey ": {
-		"tags": ["BASEMAP"]
-	},
-	" Taiwan ": {
-		"tags": ["BASEMAP"]
-	},
-	" United Republic of Tanzania ": {
-		"tags": ["BASEMAP"]
-	},
-	" Uganda ": {
-		"tags": ["BASEMAP"]
-	},
-	" Ukraine ": {
-		"tags": ["BASEMAP"]
-	},
-	" Uruguay ": {
-		"tags": ["BASEMAP"]
-	},
-	" USA ": {
-		"tags": ["BASEMAP"]
-	},
-	" Uzbekistan ": {
-		"tags": ["BASEMAP"]
-	},
-	" Venezuela ": {
-		"tags": ["BASEMAP"]
-	},
-	" Vietnam ": {
-		"tags": ["BASEMAP"]
-	},
-	" Vanuatu ": {
-		"tags": ["BASEMAP"]
-	},
-	" West Bank ": {
-		"tags": ["BASEMAP"]
-	},
-	" Yemen ": {
-		"tags": ["BASEMAP"]
-	},
-	" South Africa ": {
-		"tags": ["BASEMAP"]
-	},
-	" Zambia ": {
-		"tags": ["BASEMAP"]
-	},
-	" Zimbabwe ": {
-		"tags": ["BASEMAP"]
-	},
-	"Dhaka": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Brussels": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Ouagadougou": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Sofia": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Sarajevo": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Bridgetown": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Mata-Utu": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Gustavia": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Hamilton": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Bandar Seri Begawan": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"La Paz": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Manama": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Bujumbura": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Porto-Novo": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Thimphu": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Kingston": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"undefined": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Gaborone": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Apia": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Brasilia": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Nassau": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Saint Helier": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Minsk": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Belmopan": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Moscow": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Kigali": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Belgrade": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Dili": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Ashgabat": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Dushanbe": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Bucharest": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Bissau": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Hagatna": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Guatemala City": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Athens": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Malabo": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Tokyo": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Georgetown": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Saint Peter Port": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"T'bilisi": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Saint George's": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"London": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Libreville": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"San Salvador": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Conakry": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Banjul": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Nuuk": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Gibraltar": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Accra": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Muscat": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Tunis": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Amman": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Zagreb": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Port-au-Prince": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Budapest": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Hong Kong": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Tegucigalpa": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Caracas": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"San Juan": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Melekeok": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Lisbon": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Longyearbyen": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Asuncion": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Baghdad": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Panama City": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Papeete": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Port Moresby": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Lima": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Islamabad": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Manila": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Adamstown": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Warsaw": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Saint-Pierre": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Lusaka": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Tallinn": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Cairo": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Pretoria": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Quito": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Rome": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Hanoi": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Honiara": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Addis Ababa": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Mogadishu": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Harare": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Riyadh": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Madrid": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Asmara": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Podgorica": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Chisinau": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Antananarivo": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Marigot": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Rabat": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Monaco": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Tashkent": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Rangoon": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Bamako": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Ulaanbaatar": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Majuro": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Skopje": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Port Louis": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Valletta": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Lilongwe": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Male": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Saipan": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Plymouth": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Nouakchott": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Douglas": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Kampala": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Kuala Lumpur": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Mexico City": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Jerusalem": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Paris": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Jamestown": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Helsinki": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Suva": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Stanley": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Palikir": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Torshavn": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Managua": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Amsterdam": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Oslo": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Windhoek": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Port-Vila": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Noumea": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Niamey": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Abuja": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Wellington": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Kathmandu": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Alofi": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Avarua": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Yamoussoukro": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Bern": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Bogota": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Beijing": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Yaounde": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Santiago": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"West Island": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Ottawa": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Brazzaville": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Bangui": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Kinshasa": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Prague": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Nicosia": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"The Settlement": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"San Jose": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Praia": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Havana": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Mbabane": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Damascus": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Bishkek": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Nairobi": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Paramaribo": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Tarawa": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Phnom Penh": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Basseterre": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Moroni": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Sao Tome": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Bratislava": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Seoul": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Ljubljana": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Pyongyang": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Kuwait City": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Dakar": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"San Marino": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Freetown": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Victoria": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Astana": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"George Town": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Singapore": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Stockholm": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Khartoum": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Santo Domingo": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Roseau": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Djibouti": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Copenhagen": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Road Town": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Berlin": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Sanaa": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Algiers": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Washington, DC": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Montevideo": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Mamoudzou": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Beirut": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Castries": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Vientiane": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Funafuti": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Taipei": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Port-of-Spain": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Ankara": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Colombo": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Vaduz": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Riga": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Nuku'alofa": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Vilnius": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Luxembourg": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Monrovia": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Maseru": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Bangkok": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Lome": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"N'Djamena": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Grand Turk": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Tripoli": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Vatican City": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Kingstown": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Abu Dhabi": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Andorra la Vella": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Saint John's": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Kabul": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"The Valley": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Charlotte Amalie": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Reykjavik": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Tehran": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Yerevan": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Tirana": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Luanda": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Willemstad": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Pago Pago": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Buenos Aires": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Canberra": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Vienna": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Oranjestad": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"New Delhi": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Dar es Salaam": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Baku": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Dublin": {
-		"color": 3,
-		"tags": ["World"]
-	},
-	"Jakarta": {
-		"color": 0,
-		"tags": ["World"]
-	},
-	"Kiew": {
-		"color": 1,
-		"tags": ["World"]
-	},
-	"Doha": {
-		"color": 2,
-		"tags": ["World"]
-	},
-	"Maputo": {
-		"color": 3,
-		"tags": ["World"]
-	}
+    " Afghanistan ": {
+        "tags": ["BASEMAP"]
+    },
+    " Angola ": {
+        "tags": ["BASEMAP"]
+    },
+    " Albania ": {
+        "tags": ["BASEMAP"]
+    },
+    " United Arab Emirates ": {
+        "tags": ["BASEMAP"]
+    },
+    " Argentina ": {
+        "tags": ["BASEMAP"]
+    },
+    " Armenia ": {
+        "tags": ["BASEMAP"]
+    },
+    " Australia ": {
+        "tags": ["BASEMAP"]
+    },
+    " Austria ": {
+        "tags": ["BASEMAP"]
+    },
+    " Azerbaijan ": {
+        "tags": ["BASEMAP"]
+    },
+    " Burundi ": {
+        "tags": ["BASEMAP"]
+    },
+    " Belgium ": {
+        "tags": ["BASEMAP"]
+    },
+    " Benin ": {
+        "tags": ["BASEMAP"]
+    },
+    " Burkina Faso ": {
+        "tags": ["BASEMAP"]
+    },
+    " Bangladesh ": {
+        "tags": ["BASEMAP"]
+    },
+    " Bulgaria ": {
+        "tags": ["BASEMAP"]
+    },
+    " The Bahamas ": {
+        "tags": ["BASEMAP"]
+    },
+    " Bosnia and Herzegovina ": {
+        "tags": ["BASEMAP"]
+    },
+    " Belarus ": {
+        "tags": ["BASEMAP"]
+    },
+    " Belize ": {
+        "tags": ["BASEMAP"]
+    },
+    " Bolivia ": {
+        "tags": ["BASEMAP"]
+    },
+    " Brazil ": {
+        "tags": ["BASEMAP"]
+    },
+    " Brunei ": {
+        "tags": ["BASEMAP"]
+    },
+    " Bhutan ": {
+        "tags": ["BASEMAP"]
+    },
+    " Botswana ": {
+        "tags": ["BASEMAP"]
+    },
+    " Central African Republic ": {
+        "tags": ["BASEMAP"]
+    },
+    " Canada ": {
+        "tags": ["BASEMAP"]
+    },
+    " Switzerland ": {
+        "tags": ["BASEMAP"]
+    },
+    " Chile ": {
+        "tags": ["BASEMAP"]
+    },
+    " China ": {
+        "tags": ["BASEMAP"]
+    },
+    " Ivory Coast ": {
+        "tags": ["BASEMAP"]
+    },
+    " Cameroon ": {
+        "tags": ["BASEMAP"]
+    },
+    " Democratic Republic of the Congo ": {
+        "tags": ["BASEMAP"]
+    },
+    " Republic of the Congo ": {
+        "tags": ["BASEMAP"]
+    },
+    " Colombia ": {
+        "tags": ["BASEMAP"]
+    },
+    " Costa Rica ": {
+        "tags": ["BASEMAP"]
+    },
+    " Cuba ": {
+        "tags": ["BASEMAP"]
+    },
+    " Northern Cyprus ": {
+        "tags": ["BASEMAP"]
+    },
+    " Cyprus ": {
+        "tags": ["BASEMAP"]
+    },
+    " Czech Republic ": {
+        "tags": ["BASEMAP"]
+    },
+    " Germany ": {
+        "tags": ["BASEMAP"]
+    },
+    " Djibouti ": {
+        "tags": ["BASEMAP"]
+    },
+    " Denmark ": {
+        "tags": ["BASEMAP"]
+    },
+    " Dominican Republic ": {
+        "tags": ["BASEMAP"]
+    },
+    " Algeria ": {
+        "tags": ["BASEMAP"]
+    },
+    " Ecuador ": {
+        "tags": ["BASEMAP"]
+    },
+    " Egypt ": {
+        "tags": ["BASEMAP"]
+    },
+    " Eritrea ": {
+        "tags": ["BASEMAP"]
+    },
+    " Spain ": {
+        "tags": ["BASEMAP"]
+    },
+    " Estonia ": {
+        "tags": ["BASEMAP"]
+    },
+    " Ethiopia ": {
+        "tags": ["BASEMAP"]
+    },
+    " Finland ": {
+        "tags": ["BASEMAP"]
+    },
+    " Fiji ": {
+        "tags": ["BASEMAP"]
+    },
+    " Falkland Islands ": {
+        "tags": ["BASEMAP"]
+    },
+    " France ": {
+        "tags": ["BASEMAP"]
+    },
+    " Gabon ": {
+        "tags": ["BASEMAP"]
+    },
+    " England ": {
+        "tags": ["BASEMAP"]
+    },
+    " Georgia ": {
+        "tags": ["BASEMAP"]
+    },
+    " Ghana ": {
+        "tags": ["BASEMAP"]
+    },
+    " Guinea ": {
+        "tags": ["BASEMAP"]
+    },
+    " Gambia ": {
+        "tags": ["BASEMAP"]
+    },
+    " Guinea Bissau ": {
+        "tags": ["BASEMAP"]
+    },
+    " Equatorial Guinea ": {
+        "tags": ["BASEMAP"]
+    },
+    " Greece ": {
+        "tags": ["BASEMAP"]
+    },
+    " Greenland ": {
+        "tags": ["BASEMAP"]
+    },
+    " Guatemala ": {
+        "tags": ["BASEMAP"]
+    },
+    " Guyana ": {
+        "tags": ["BASEMAP"]
+    },
+    " Honduras ": {
+        "tags": ["BASEMAP"]
+    },
+    " Croatia ": {
+        "tags": ["BASEMAP"]
+    },
+    " Haiti ": {
+        "tags": ["BASEMAP"]
+    },
+    " Hungary ": {
+        "tags": ["BASEMAP"]
+    },
+    " Indonesia ": {
+        "tags": ["BASEMAP"]
+    },
+    " India ": {
+        "tags": ["BASEMAP"]
+    },
+    " Ireland ": {
+        "tags": ["BASEMAP"]
+    },
+    " Iran ": {
+        "tags": ["BASEMAP"]
+    },
+    " Iraq ": {
+        "tags": ["BASEMAP"]
+    },
+    " Iceland ": {
+        "tags": ["BASEMAP"]
+    },
+    " Israel ": {
+        "tags": ["BASEMAP"]
+    },
+    " Italy ": {
+        "tags": ["BASEMAP"]
+    },
+    " Jamaica ": {
+        "tags": ["BASEMAP"]
+    },
+    " Jordan ": {
+        "tags": ["BASEMAP"]
+    },
+    " Japan ": {
+        "tags": ["BASEMAP"]
+    },
+    " Kazakhstan ": {
+        "tags": ["BASEMAP"]
+    },
+    " Kenya ": {
+        "tags": ["BASEMAP"]
+    },
+    " Kyrgyzstan ": {
+        "tags": ["BASEMAP"]
+    },
+    " Cambodia ": {
+        "tags": ["BASEMAP"]
+    },
+    " South Korea ": {
+        "tags": ["BASEMAP"]
+    },
+    " Kosovo ": {
+        "tags": ["BASEMAP"]
+    },
+    " Kuwait ": {
+        "tags": ["BASEMAP"]
+    },
+    " Laos ": {
+        "tags": ["BASEMAP"]
+    },
+    " Lebanon ": {
+        "tags": ["BASEMAP"]
+    },
+    " Liberia ": {
+        "tags": ["BASEMAP"]
+    },
+    " Libya ": {
+        "tags": ["BASEMAP"]
+    },
+    " Sri Lanka ": {
+        "tags": ["BASEMAP"]
+    },
+    " Lesotho ": {
+        "tags": ["BASEMAP"]
+    },
+    " Lithuania ": {
+        "tags": ["BASEMAP"]
+    },
+    " Luxembourg ": {
+        "tags": ["BASEMAP"]
+    },
+    " Latvia ": {
+        "tags": ["BASEMAP"]
+    },
+    " Morocco ": {
+        "tags": ["BASEMAP"]
+    },
+    " Moldova ": {
+        "tags": ["BASEMAP"]
+    },
+    " Madagascar ": {
+        "tags": ["BASEMAP"]
+    },
+    " Mexico ": {
+        "tags": ["BASEMAP"]
+    },
+    " North Macedonia ": {
+        "tags": ["BASEMAP"]
+    },
+    " Mali ": {
+        "tags": ["BASEMAP"]
+    },
+    " Myanmar ": {
+        "tags": ["BASEMAP"]
+    },
+    " Montenegro ": {
+        "tags": ["BASEMAP"]
+    },
+    " Mongolia ": {
+        "tags": ["BASEMAP"]
+    },
+    " Mozambique ": {
+        "tags": ["BASEMAP"]
+    },
+    " Mauritania ": {
+        "tags": ["BASEMAP"]
+    },
+    " Malawi ": {
+        "tags": ["BASEMAP"]
+    },
+    " Malaysia ": {
+        "tags": ["BASEMAP"]
+    },
+    " Namibia ": {
+        "tags": ["BASEMAP"]
+    },
+    " New Caledonia ": {
+        "tags": ["BASEMAP"]
+    },
+    " Niger ": {
+        "tags": ["BASEMAP"]
+    },
+    " Nigeria ": {
+        "tags": ["BASEMAP"]
+    },
+    " Nicaragua ": {
+        "tags": ["BASEMAP"]
+    },
+    " Netherlands ": {
+        "tags": ["BASEMAP"]
+    },
+    " Norway ": {
+        "tags": ["BASEMAP"]
+    },
+    " Nepal ": {
+        "tags": ["BASEMAP"]
+    },
+    " New Zealand ": {
+        "tags": ["BASEMAP"]
+    },
+    " Oman ": {
+        "tags": ["BASEMAP"]
+    },
+    " Pakistan ": {
+        "tags": ["BASEMAP"]
+    },
+    " Panama ": {
+        "tags": ["BASEMAP"]
+    },
+    " Peru ": {
+        "tags": ["BASEMAP"]
+    },
+    " Philippines ": {
+        "tags": ["BASEMAP"]
+    },
+    " Papua New Guinea ": {
+        "tags": ["BASEMAP"]
+    },
+    " Poland ": {
+        "tags": ["BASEMAP"]
+    },
+    " Puerto Rico ": {
+        "tags": ["BASEMAP"]
+    },
+    " North Korea ": {
+        "tags": ["BASEMAP"]
+    },
+    " Portugal ": {
+        "tags": ["BASEMAP"]
+    },
+    " Paraguay ": {
+        "tags": ["BASEMAP"]
+    },
+    " Qatar ": {
+        "tags": ["BASEMAP"]
+    },
+    " Romania ": {
+        "tags": ["BASEMAP"]
+    },
+    " Russia ": {
+        "tags": ["BASEMAP"]
+    },
+    " Rwanda ": {
+        "tags": ["BASEMAP"]
+    },
+    " Western Sahara ": {
+        "tags": ["BASEMAP"]
+    },
+    " Saudi Arabia ": {
+        "tags": ["BASEMAP"]
+    },
+    " Sudan ": {
+        "tags": ["BASEMAP"]
+    },
+    " South Sudan ": {
+        "tags": ["BASEMAP"]
+    },
+    " Senegal ": {
+        "tags": ["BASEMAP"]
+    },
+    " Solomon Islands ": {
+        "tags": ["BASEMAP"]
+    },
+    " Sierra Leone ": {
+        "tags": ["BASEMAP"]
+    },
+    " El Salvador ": {
+        "tags": ["BASEMAP"]
+    },
+    " Somaliland ": {
+        "tags": ["BASEMAP"]
+    },
+    " Somalia ": {
+        "tags": ["BASEMAP"]
+    },
+    " Republic of Serbia ": {
+        "tags": ["BASEMAP"]
+    },
+    " Suriname ": {
+        "tags": ["BASEMAP"]
+    },
+    " Slovakia ": {
+        "tags": ["BASEMAP"]
+    },
+    " Slovenia ": {
+        "tags": ["BASEMAP"]
+    },
+    " Sweden ": {
+        "tags": ["BASEMAP"]
+    },
+    " Swaziland ": {
+        "tags": ["BASEMAP"]
+    },
+    " Syria ": {
+        "tags": ["BASEMAP"]
+    },
+    " Chad ": {
+        "tags": ["BASEMAP"]
+    },
+    " Togo ": {
+        "tags": ["BASEMAP"]
+    },
+    " Thailand ": {
+        "tags": ["BASEMAP"]
+    },
+    " Tajikistan ": {
+        "tags": ["BASEMAP"]
+    },
+    " Turkmenistan ": {
+        "tags": ["BASEMAP"]
+    },
+    " East Timor ": {
+        "tags": ["BASEMAP"]
+    },
+    " Trinidad and Tobago ": {
+        "tags": ["BASEMAP"]
+    },
+    " Tunisia ": {
+        "tags": ["BASEMAP"]
+    },
+    " Turkey ": {
+        "tags": ["BASEMAP"]
+    },
+    " Taiwan ": {
+        "tags": ["BASEMAP"]
+    },
+    " United Republic of Tanzania ": {
+        "tags": ["BASEMAP"]
+    },
+    " Uganda ": {
+        "tags": ["BASEMAP"]
+    },
+    " Ukraine ": {
+        "tags": ["BASEMAP"]
+    },
+    " Uruguay ": {
+        "tags": ["BASEMAP"]
+    },
+    " USA ": {
+        "tags": ["BASEMAP"]
+    },
+    " Uzbekistan ": {
+        "tags": ["BASEMAP"]
+    },
+    " Venezuela ": {
+        "tags": ["BASEMAP"]
+    },
+    " Vietnam ": {
+        "tags": ["BASEMAP"]
+    },
+    " Vanuatu ": {
+        "tags": ["BASEMAP"]
+    },
+    " West Bank ": {
+        "tags": ["BASEMAP"]
+    },
+    " Yemen ": {
+        "tags": ["BASEMAP"]
+    },
+    " South Africa ": {
+        "tags": ["BASEMAP"]
+    },
+    " Zambia ": {
+        "tags": ["BASEMAP"]
+    },
+    " Zimbabwe ": {
+        "tags": ["BASEMAP"]
+    },
+    "Dhaka": {
+        "color": 0,
+        "tags": ["World","Asia"]
+    },
+    "Brussels": {
+        "color": 3,
+        "tags": ["World","Europe"]
+    },
+    "Ouagadougou": {
+        "color": 2,
+        "tags": ["World","Africa"]
+    },
+    "Sofia": {
+        "color": 3,
+        "tags": ["World","Europe"]
+    },
+    "Sarajevo": {
+        "color": 0,
+        "tags": ["World","Europe"]
+    },
+    "Bridgetown": {
+        "color": 3,
+        "tags": ["World","America","Caribbean"]
+    },
+    "Mata-Utu": {
+        "color": 0,
+        "tags": ["World","Oceania"]
+    },
+    "Gustavia": {
+        "color": 0,
+        "tags": ["World","America","Caribbean"]
+    },
+    "Hamilton": {
+        "color": 0,
+        "tags": ["World","America"]
+    },
+    "Bandar Seri Begawan": {
+        "color": 1,
+        "tags": ["World","Asia"]
+    },
+    "La Paz": {
+        "color": 2,
+        "tags": ["World","America"]
+    },
+    "Manama": {
+        "color": 3,
+        "tags": ["World","Asia","Middle East"]
+    },
+    "Bujumbura": {
+        "color": 3,
+        "tags": ["World","Africa"]
+    },
+    "Porto-Novo": {
+        "color": 2,
+        "tags": ["World","Africa"]
+    },
+    "Thimphu": {
+        "color": 2,
+        "tags": ["World","Asia"]
+    },
+    "Kingston (J)": {
+        "color": 3,
+        "tags": ["World","America","Caribbean"]
+    },
+    "Gaborone": {
+        "color": 0,
+        "tags": ["World","Africa"]
+    },
+    "Apia": {
+        "color": 1,
+        "tags": ["World","Oceania"]
+    },
+    "Brasilia": {
+        "color": 1,
+        "tags": ["World","America"]
+    },
+    "Nassau": {
+        "color": 3,
+        "tags": ["World","America","Caribbean"]
+    },
+    "Saint Helier": {
+        "color": 0,
+        "tags": ["World","Europe"]
+    },
+    "Minsk": {
+        "color": 2,
+        "tags": ["World","Europe"]
+    },
+    "Belmopan": {
+        "color": 2,
+        "tags": ["World","America"]
+    },
+    "Moscow": {
+        "color": 3,
+        "tags": ["World","Europe","Asia"]
+    },
+    "Kigali": {
+        "color": 2,
+        "tags": ["World","Africa"]
+    },
+    "Belgrade": {
+        "color": 1,
+        "tags": ["World","Europe"]
+    },
+    "Dili": {
+        "color": 2,
+        "tags": ["World","Oceania"]
+    },
+    "Ashgabat": {
+        "color": 3,
+        "tags": ["World","Asia"]
+    },
+    "Dushanbe": {
+        "color": 2,
+        "tags": ["World","Asia"]
+    },
+    "Bucharest": {
+        "color": 1,
+        "tags": ["World","Europe"]
+    },
+    "Atafu": {
+        "color": 3,
+        "tags": ["World","Oceania"]
+    },
+    "Bissau": {
+        "color": 2,
+        "tags": ["World","Africa"]
+    },
+    "Hagatna": {
+        "color": 2,
+        "tags": ["World","Oceania"]
+    },
+    "Guatemala City": {
+        "color": 1,
+        "tags": ["World","America"]
+    },
+    "Athens": {
+        "color": 2,
+        "tags": ["World","Europe"]
+    },
+    "Malabo": {
+        "color": 0,
+        "tags": ["World","Africa"]
+    },
+    "Tokyo": {
+        "color": 0,
+        "tags": ["World","Asia"]
+    },
+    "Georgetown": {
+        "color": 1,
+        "tags": ["World","America"]
+    },
+    "Saint Peter Port": {
+        "color": 2,
+        "tags": ["World","Europe"]
+    },
+    "T'bilisi": {
+        "color": 0,
+        "tags": ["World","Asia","Middle East"]
+    },
+    "Saint George's": {
+        "color": 0,
+        "tags": ["World","America","Caribbean"]
+    },
+    "London": {
+        "color": 1,
+        "tags": ["World","Europe"]
+    },
+    "Libreville": {
+        "color": 2,
+        "tags": ["World","Africa"]
+    },
+    "San Salvador": {
+        "color": 3,
+        "tags": ["World","America"]
+    },
+    "Conakry": {
+        "color": 0,
+        "tags": ["World","Africa"]
+    },
+    "Banjul": {
+        "color": 1,
+        "tags": ["World","Africa"]
+    },
+    "Nuuk": {
+        "color": 2,
+        "tags": ["World","America"]
+    },
+    "Gibraltar": {
+        "color": 2,
+        "tags": ["World","Europe"]
+    },
+    "Accra": {
+        "color": 1,
+        "tags": ["World","Africa"]
+    },
+    "Muscat": {
+        "color": 1,
+        "tags": ["World","Asia","Middle East"]
+    },
+    "Tunis": {
+        "color": 2,
+        "tags": ["World","Africa"]
+    },
+    "Amman": {
+        "color": 3,
+        "tags": ["World","Asia","Middle East"]
+    },
+    "Zagreb": {
+        "color": 1,
+        "tags": ["World","Europe"]
+    },
+    "Port-au-Prince": {
+        "color": 1,
+        "tags": ["World","America","Caribbean"]
+    },
+    "Budapest": {
+        "color": 2,
+        "tags": ["World","Europe"]
+    },
+    "Hong Kong": {
+        "color": 3,
+        "tags": ["World","Asia"]
+    },
+    "Tegucigalpa": {
+        "color": 0,
+        "tags": ["World","America"]
+    },
+    "Caracas": {
+        "color": 1,
+        "tags": ["World","America"]
+    },
+    "San Juan": {
+        "color": 2,
+        "tags": ["World","America","Caribbean"]
+    },
+    "Melekeok": {
+        "color": 3,
+        "tags": ["World","Oceania"]
+    },
+    "Lisbon": {
+        "color": 0,
+        "tags": ["World","Europe"]
+    },
+    "Longyearbyen": {
+        "color": 1,
+        "tags": ["World","Europe"]
+    },
+    "Asuncion": {
+        "color": 0,
+        "tags": ["World","America"]
+    },
+    "Baghdad": {
+        "color": 0,
+        "tags": ["World","Asia","Middle East"]
+    },
+    "Panama City": {
+        "color": 0,
+        "tags": ["World","America"]
+    },
+    "Papeete": {
+        "color": 1,
+        "tags": ["World","Oceania"]
+    },
+    "Port Moresby": {
+        "color": 2,
+        "tags": ["World","Oceania"]
+    },
+    "Lima": {
+        "color": 3,
+        "tags": ["World","America"]
+    },
+    "Islamabad": {
+        "color": 0,
+        "tags": ["World","Asia"]
+    },
+    "Manila": {
+        "color": 0,
+        "tags": ["World","Asia"]
+    },
+    "Adamstown": {
+        "color": 2,
+        "tags": ["World","Oceania"]
+    },
+    "Warsaw": {
+        "color": 3,
+        "tags": ["World","Europe"]
+    },
+    "Saint-Pierre": {
+        "color": 1,
+        "tags": ["World","America"]
+    },
+    "Lusaka": {
+        "color": 1,
+        "tags": ["World","Africa"]
+    },
+    "Tallinn": {
+        "color": 2,
+        "tags": ["World","Europe"]
+    },
+    "Cairo": {
+        "color": 3,
+        "tags": ["World","Africa"]
+    },
+    "Pretoria": {
+        "color": 1,
+        "tags": ["World","Africa"]
+    },
+    "Quito": {
+        "color": 1,
+        "tags": ["World","America"]
+    },
+    "Rome": {
+        "color": 2,
+        "tags": ["World","Europe"]
+    },
+    "Hanoi": {
+        "color": 1,
+        "tags": ["World","Asia"]
+    },
+    "Honiara": {
+        "color": 1,
+        "tags": ["World","Oceania"]
+    },
+    "Addis Ababa": {
+        "color": 3,
+        "tags": ["World","Africa"]
+    },
+    "Mogadishu": {
+        "color": 2,
+        "tags": ["World","Africa"]
+    },
+    "Harare": {
+        "color": 3,
+        "tags": ["World","Africa"]
+    },
+    "Riyadh": {
+        "color": 2,
+        "tags": ["World","Asia","Middle East"]
+    },
+    "Madrid": {
+        "color": 1,
+        "tags": ["World","Europe"]
+    },
+    "Asmara": {
+        "color": 2,
+        "tags": ["World","Africa"]
+    },
+    "Podgorica": {
+        "color": 3,
+        "tags": ["World","Europe"]
+    },
+    "Chisinau": {
+        "color": 0,
+        "tags": ["World","Europe"]
+    },
+    "Antananarivo": {
+        "color": 0,
+        "tags": ["World","Africa"]
+    },
+    "Marigot": {
+        "color": 2,
+        "tags": ["World","America","Caribbean"]
+    },
+    "Rabat": {
+        "color": 3,
+        "tags": ["World","Africa"]
+    },
+    "Monaco": {
+        "color": 0,
+        "tags": ["World","Europe"]
+    },
+    "Tashkent": {
+        "color": 1,
+        "tags": ["World","Asia"]
+    },
+    "Rangoon": {
+        "color": 2,
+        "tags": ["World","Asia"]
+    },
+    "Bamako": {
+        "color": 3,
+        "tags": ["World","Africa"]
+    },
+    "Macao": {
+        "color": 2,
+        "tags": ["World","Asia"]
+    },
+    "Ulaanbaatar": {
+        "color": 1,
+        "tags": ["World","Asia"]
+    },
+    "Majuro": {
+        "color": 2,
+        "tags": ["World","Oceania"]
+    },
+    "Skopje": {
+        "color": 0,
+        "tags": ["World","Europe"]
+    },
+    "Port Louis": {
+        "color": 1,
+        "tags": ["World","Africa"]
+    },
+    "Valletta": {
+        "color": 1,
+        "tags": ["World","Europe"]
+    },
+    "Lilongwe": {
+        "color": 2,
+        "tags": ["World","Africa"]
+    },
+    "Male": {
+        "color": 3,
+        "tags": ["World","Asia"]
+    },
+    "Saipan": {
+        "color": 1,
+        "tags": ["World","Oceania"]
+    },
+    "Plymouth": {
+        "color": 1,
+        "tags": ["World","America","Caribbean"]
+    },
+    "Nouakchott": {
+        "color": 2,
+        "tags": ["World","Africa"]
+    },
+    "Douglas": {
+        "color": 3,
+        "tags": ["World","Europe"]
+    },
+    "Kampala": {
+        "color": 0,
+        "tags": ["World","Africa"]
+    },
+    "Kuala Lumpur": {
+        "color": 1,
+        "tags": ["World","Asia"]
+    },
+    "Mexico City": {
+        "color": 0,
+        "tags": ["World","America"]
+    },
+    "Jerusalem": {
+        "color": 0,
+        "tags": ["World","Asia","Middle East"]
+    },
+    "Paris": {
+        "color": 0,
+        "tags": ["World","Europe"]
+    },
+    "Jamestown": {
+        "color": 1,
+        "tags": ["World","Africa"]
+    },
+    "Helsinki": {
+        "color": 3,
+        "tags": ["World","Europe"]
+    },
+    "Suva": {
+        "color": 1,
+        "tags": ["World","Oceania"]
+    },
+    "Stanley": {
+        "color": 0,
+        "tags": ["World","America"]
+    },
+    "Palikir": {
+        "color": 0,
+        "tags": ["World","Oceania"]
+    },
+    "Torshavn": {
+        "color": 2,
+        "tags": ["World","Europe"]
+    },
+    "Managua": {
+        "color": 1,
+        "tags": ["World","America"]
+    },
+    "Amsterdam": {
+        "color": 0,
+        "tags": ["World","Europe"]
+    },
+    "Oslo": {
+        "color": 1,
+        "tags": ["World","Europe"]
+    },
+    "Windhoek": {
+        "color": 2,
+        "tags": ["World","Africa"]
+    },
+    "Port-Vila": {
+        "color": 3,
+        "tags": ["World","Oceania"]
+    },
+    "Noumea": {
+        "color": 0,
+        "tags": ["World","Oceania"]
+    },
+    "Niamey": {
+        "color": 1,
+        "tags": ["World","Africa"]
+    },
+    "Kingston (NI)": {
+        "color": 2,
+        "tags": ["World","Oceania"]
+    },
+    "Abuja": {
+        "color": 3,
+        "tags": ["World","Africa"]
+    },
+    "Wellington": {
+        "color": 0,
+        "tags": ["World","Oceania"]
+    },
+    "Kathmandu": {
+        "color": 1,
+        "tags": ["World","Asia"]
+    },
+    "Yaren": {
+        "color": 2,
+        "tags": ["World","Oceania"]
+    },
+    "Alofi": {
+        "color": 3,
+        "tags": ["World","Oceania"]
+    },
+    "Avarua": {
+        "color": 0,
+        "tags": ["World","Oceania"]
+    },
+    "Yamoussoukro": {
+        "color": 0,
+        "tags": ["World","Africa"]
+    },
+    "Bern": {
+        "color": 2,
+        "tags": ["World","Europe"]
+    },
+    "Bogota": {
+        "color": 3,
+        "tags": ["World","America"]
+    },
+    "Beijing": {
+        "color": 0,
+        "tags": ["World","Asia"]
+    },
+    "Yaounde": {
+        "color": 1,
+        "tags": ["World","Africa"]
+    },
+    "Santiago": {
+        "color": 1,
+        "tags": ["World","America"]
+    },
+    "West Island": {
+        "color": 3,
+        "tags": ["World","Oceania"]
+    },
+    "Ottawa": {
+        "color": 3,
+        "tags": ["World","America"]
+    },
+    "Brazzaville": {
+        "color": 0,
+        "tags": ["World","Africa"]
+    },
+    "Bangui": {
+        "color": 3,
+        "tags": ["World","Africa"]
+    },
+    "Kinshasa": {
+        "color": 1,
+        "tags": ["World","Africa"]
+    },
+    "Prague": {
+        "color": 0,
+        "tags": ["World","Europe"]
+    },
+    "Nicosia": {
+        "color": 1,
+        "tags": ["World","Europe"]
+    },
+    "The Settlement": {
+        "color": 2,
+        "tags": ["World","Oceania"]
+    },
+    "San Jose": {
+        "color": 2,
+        "tags": ["World","America"]
+    },
+    "Praia": {
+        "color": 0,
+        "tags": ["World","Africa"]
+    },
+    "Havana": {
+        "color": 1,
+        "tags": ["World","America","Caribbean"]
+    },
+    "Mbabane": {
+        "color": 2,
+        "tags": ["World","Africa"]
+    },
+    "Damascus": {
+        "color": 2,
+        "tags": ["World","Asia","Middle East"]
+    },
+    "Bishkek": {
+        "color": 3,
+        "tags": ["World","Asia"]
+    },
+    "Nairobi": {
+        "color": 1,
+        "tags": ["World","Africa"]
+    },
+    "Paramaribo": {
+        "color": 2,
+        "tags": ["World","America"]
+    },
+    "Tarawa": {
+        "color": 3,
+        "tags": ["World","Oceania"]
+    },
+    "Phnom Penh": {
+        "color": 2,
+        "tags": ["World","Asia"]
+    },
+    "Basseterre": {
+        "color": 3,
+        "tags": ["World","America","Caribbean"]
+    },
+    "Moroni": {
+        "color": 2,
+        "tags": ["World","Africa"]
+    },
+    "Sao Tome": {
+        "color": 3,
+        "tags": ["World","Africa"]
+    },
+    "Bratislava": {
+        "color": 0,
+        "tags": ["World","Europe"]
+    },
+    "Seoul": {
+        "color": 1,
+        "tags": ["World","Asia"]
+    },
+    "Ljubljana": {
+        "color": 0,
+        "tags": ["World","Europe"]
+    },
+    "Pyongyang": {
+        "color": 3,
+        "tags": ["World","Asia"]
+    },
+    "Kuwait City": {
+        "color": 1,
+        "tags": ["World","Asia","Middle East"]
+    },
+    "Dakar": {
+        "color": 3,
+        "tags": ["World","Africa"]
+    },
+    "San Marino": {
+        "color": 3,
+        "tags": ["World","Europe"]
+    },
+    "Freetown": {
+        "color": 3,
+        "tags": ["World","Africa"]
+    },
+    "Victoria": {
+        "color": 0,
+        "tags": ["World","Africa"]
+    },
+    "Astana": {
+        "color": 0,
+        "tags": ["World","Asia"]
+    },
+    "George Town": {
+        "color": 2,
+        "tags": ["World","America","Caribbean"]
+    },
+    "Singapore": {
+        "color": 3,
+        "tags": ["World","Asia"]
+    },
+    "Stockholm": {
+        "color": 0,
+        "tags": ["World","Europe"]
+    },
+    "Khartoum": {
+        "color": 1,
+        "tags": ["World","Africa"]
+    },
+    "Santo Domingo": {
+        "color": 2,
+        "tags": ["World","America","Caribbean"]
+    },
+    "Roseau": {
+        "color": 3,
+        "tags": ["World","America","Caribbean"]
+    },
+    "Djibouti": {
+        "color": 0,
+        "tags": ["World","Africa"]
+    },
+    "Copenhagen": {
+        "color": 1,
+        "tags": ["World","Europe"]
+    },
+    "Road Town": {
+        "color": 3,
+        "tags": ["World","America","Caribbean"]
+    },
+    "Berlin": {
+        "color": 2,
+        "tags": ["World","Europe"]
+    },
+    "Sanaa": {
+        "color": 3,
+        "tags": ["World","Asia","Middle East"]
+    },
+    "Algiers": {
+        "color": 1,
+        "tags": ["World","Africa"]
+    },
+    "Washington, DC": {
+        "color": 2,
+        "tags": ["World","America"]
+    },
+    "Montevideo": {
+        "color": 2,
+        "tags": ["World","America"]
+    },
+    "Mamoudzou": {
+        "color": 3,
+        "tags": ["World","Africa"]
+    },
+    "Beirut": {
+        "color": 1,
+        "tags": ["World","Asia","Middle East"]
+    },
+    "Castries": {
+        "color": 2,
+        "tags": ["World","America","Caribbean"]
+    },
+    "Vientiane": {
+        "color": 3,
+        "tags": ["World","Asia"]
+    },
+    "Funafuti": {
+        "color": 0,
+        "tags": ["World","Oceania"]
+    },
+    "Taipei": {
+        "color": 1,
+        "tags": ["World","Asia"]
+    },
+    "Port-of-Spain": {
+        "color": 2,
+        "tags": ["World","America","Caribbean"]
+    },
+    "Ankara": {
+        "color": 3,
+        "tags": ["World","Europe","Asia","Middle East"]
+    },
+    "Colombo": {
+        "color": 0,
+        "tags": ["World","Asia"]
+    },
+    "Vaduz": {
+        "color": 1,
+        "tags": ["World","Europe"]
+    },
+    "Riga": {
+        "color": 1,
+        "tags": ["World","Europe"]
+    },
+    "Nuku'alofa": {
+        "color": 1,
+        "tags": ["World","Oceania"]
+    },
+    "Vilnius": {
+        "color": 0,
+        "tags": ["World","Europe"]
+    },
+    "Luxembourg": {
+        "color": 1,
+        "tags": ["World","Europe"]
+    },
+    "Monrovia": {
+        "color": 2,
+        "tags": ["World","Africa"]
+    },
+    "Maseru": {
+        "color": 3,
+        "tags": ["World","Africa"]
+    },
+    "Bangkok": {
+        "color": 0,
+        "tags": ["World","Asia"]
+    },
+    "Lome": {
+        "color": 3,
+        "tags": ["World","Africa"]
+    },
+    "N'Djamena": {
+        "color": 2,
+        "tags": ["World","Africa"]
+    },
+    "Grand Turk": {
+        "color": 3,
+        "tags": ["World","America","Caribbean"]
+    },
+    "Tripoli": {
+        "color": 0,
+        "tags": ["World","Africa"]
+    },
+    "Kingstown": {
+        "color": 1,
+        "tags": ["World","America","Caribbean"]
+    },
+    "Abu Dhabi": {
+        "color": 0,
+        "tags": ["World","Asia","Middle East"]
+    },
+    "Andorra la Vella": {
+        "color": 3,
+        "tags": ["World","Europe"]
+    },
+    "Saint John's": {
+        "color": 2,
+        "tags": ["World","America","Caribbean"]
+    },
+    "Kabul": {
+        "color": 1,
+        "tags": ["World","Asia","Middle East"]
+    },
+    "The Valley": {
+        "color": 1,
+        "tags": ["World","America","Caribbean"]
+    },
+    "Charlotte Amalie": {
+        "color": 0,
+        "tags": ["World","America","Caribbean"]
+    },
+    "Reykjavik": {
+        "color": 0,
+        "tags": ["World","Europe"]
+    },
+    "Tehran": {
+        "color": 1,
+        "tags": ["World","Asia","Middle East"]
+    },
+    "Yerevan": {
+        "color": 2,
+        "tags": ["World","Asia","Middle East"]
+    },
+    "Tirana": {
+        "color": 1,
+        "tags": ["World","Europe"]
+    },
+    "Luanda": {
+        "color": 0,
+        "tags": ["World","Africa"]
+    },
+    "Willemstad": {
+        "color": 3,
+        "tags": ["World","America","Caribbean"]
+    },
+    "Pago Pago": {
+        "color": 2,
+        "tags": ["World","Oceania"]
+    },
+    "Buenos Aires": {
+        "color": 3,
+        "tags": ["World","America"]
+    },
+    "Canberra": {
+        "color": 3,
+        "tags": ["World","Oceania"]
+    },
+    "Vienna": {
+        "color": 3,
+        "tags": ["World","Europe"]
+    },
+    "Oranjestad": {
+        "color": 2,
+        "tags": ["World","America","Caribbean"]
+    },
+    "New Delhi": {
+        "color": 3,
+        "tags": ["World","Asia"]
+    },
+    "Dar es Salaam": {
+        "color": 0,
+        "tags": ["World","Africa"]
+    },
+    "Baku": {
+        "color": 3,
+        "tags": ["World","Asia","Middle East"]
+    },
+    "Dublin": {
+        "color": 2,
+        "tags": ["World","Europe"]
+    },
+    "Jakarta": {
+        "color": 0,
+        "tags": ["World","Oceania"]
+    },
+    "Kiew": {
+        "color": 1,
+        "tags": ["World","Europe"]
+    },
+    "Doha": {
+        "color": 1,
+        "tags": ["World","Asia","Middle East"]
+    },
+    "Maputo": {
+        "color": 1,
+        "tags": ["World","Africa"]
+    }
 }
