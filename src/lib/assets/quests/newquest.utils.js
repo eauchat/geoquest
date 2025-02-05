@@ -19,13 +19,11 @@ export const abort = function () {
     process.exit();
 };
 
-export const json_stringify_pretty = function (object, morePretty) {
+export const json_stringify_pretty = function (object, prettier) {
     var string = JSON.stringify(object, null, 4); // 4 spaces indentation
-    // do not extend arrays, otherwise it takes too much space
-    if (morePretty) _.each(string.match(/\[[^\][{}]*\]/g), function (subString) {
-        // remove spaces and line jumps
-        var prettyFiedSubString = JSON.stringify(JSON.parse(subString));
-        string = string.replace(subString, prettyFiedSubString);
+    // contract arrays containing no children array or objects, which would otherwise take much space
+    if (prettier) string = string.replace(/\[[^\]\[\{\}]*\]/g, function (match, offset, fullString) {
+      return JSON.stringify(JSON.parse(match));
     });
     return string;
 };
