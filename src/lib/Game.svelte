@@ -228,7 +228,7 @@
 
     onMount(async () => {
         await loadMap(chosenMap)
-        newDailyQuest()
+        if (chosenMap.id == "world-countries") newDailyQuest() // run on start only for countries because daily quest does not support other maps so far
     })
 </script>
 
