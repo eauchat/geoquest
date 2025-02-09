@@ -12,6 +12,7 @@
     import DebugInterface from '$lib/ui/DebugInterface.svelte'
     import LoadingScreen from '$lib/ui/LoadingScreen.svelte'
     import MouseTooltip from '$lib/ui/MouseTooltip.svelte'
+    import InfoTooltip from '$lib/ui/InfoTooltip.svelte'
     import UI from '$lib/ui/UI.svelte'
     import {achieveAchievement, ALREADY_GUESSED, CORRECT, getGeojsonByName, processExtraAchievements, shuffleColors, WRONG} from '$lib/utils'
 
@@ -265,3 +266,4 @@
 {/if}
 
 <MouseTooltip {focusedCountry} {unfoundFeatures} />
+<InfoTooltip {focusedCountry} {unfoundFeatures} />
