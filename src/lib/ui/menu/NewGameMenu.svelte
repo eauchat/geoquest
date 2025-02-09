@@ -44,9 +44,9 @@
                 <div class="flex justify-center mb-2 mr-2">
                     <label
                         for={tag}
-                        class="px-3 py-1 text-sm font-semibold uppercase transition-all border-2 rounded-full cursor-pointer whitespace-nowrap text-background bg-foreground hover:border-background last:mr-0 border-foreground"
+                        class="px-3 py-1 text-sm font-semibold transition-all border-2 rounded-full cursor-pointer whitespace-nowrap text-background bg-foreground hover:border-background last:mr-0 border-foreground"
                     >
-                        {$t(`quests/${chosenMap.id}/groups.${tag}`)}
+                        <span class="text-[#666]">{$t(`quests/${chosenMap.id}/groups.${tag}`).match(/[^\:]*:/) || ""}</span><span>{$t(`quests/${chosenMap.id}/groups.${tag}`).replace(/[^\:]*:/, "")}</span>
                     </label>
                 </div>
             {/each}
@@ -58,7 +58,7 @@
                         <div class="flex justify-center my-1 mr-2">
                             <label
                                 for={tag}
-                                class="px-3 py-1 text-sm font-semibold uppercase transition-all border-2 rounded-full cursor-pointer whitespace-nowrap text-background bg-foreground-light hover:border-background last:mr-0 border-foreground"
+                                class="px-3 py-1 text-sm font-semibold transition-all border-2 rounded-full cursor-pointer whitespace-nowrap text-background bg-foreground-light hover:border-background last:mr-0 border-foreground"
                             >
                                 {$t(`quests/${chosenMap.id}/groups.${tag}`)}
                             </label>
