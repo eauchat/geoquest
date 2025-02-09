@@ -26,7 +26,7 @@
         return d3
             .geoPath()
             .projection({stream: stream => $projection.stream(stream)})
-            .pointRadius(0.01 * s)
+            .pointRadius(0.005 * s)
     }
 
     function zoomed(e) {
