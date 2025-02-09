@@ -18,20 +18,21 @@ export const projections = [
     {func: d3.geoOrthographic(), name: 'Globe'}
 ]
 
-// Get list of quests, and make list of maps from it
-import quests from '$lib/assets/quests/index.json'
-export const maps = _.map(quests, function (questObject) {
-    return Object.assign(questObject, {
-        topojsonMaker: function () {
-            return import(`$lib/assets/quests/${questObject.id}/map.json`)
-        },
-        dataMaker: function () {
-            const elements = {}
-            elements[questObject.objectsKey] = import(`$lib/assets/quests/${questObject.id}/elements.json`)
-            return elements
-        }
-    })
-}) as const
+// Import all "index.json" in "quests/<quest-id>" directories
+import questsList from '$lib/assets/quests/index.json'
+// import.meta.glob('$lib/assets/quests/*/index.json'); // would also work without needing the "quests/index.json" file, but without good ordering
+const questsJsonFiles = _.map(questsList, questId => import(`$lib/assets/quests/${questId}/index.json`));
+async function loadJsonFiles (jsonFiles) {
+    return await Promise.all(_.map(jsonFiles, async file => {
+        // import json file
+        const module = await file;
+        // export json content
+        return module.default;
+    }));
+}
+
+// Make "maps" variable from all quests json files
+export const maps = await loadJsonFiles(questsJsonFiles) as const;
 
 // Map
 export const loadedMap = writable()
@@ -40,10 +41,11 @@ export const geojson = derived(topojson, $topojson => ($topojson ? topojsonClien
 export const geometries = derived(topojson, $topojson => ($topojson ? Object.values($topojson?.objects)[0].geometries : undefined))
 export const projection = writable(projections[0].func)
 
-// Map choice
-export const chosenMap = _.find(maps, {id: getParam('m')}) || maps[0]
-chosenMap.topojson = chosenMap.topojsonMaker()
-chosenMap.data = chosenMap.dataMaker()
+// Choose map and build import it's contents
+export const chosenMap = _.find(maps, { id: getParam('m') }) || _.find(maps, { id: "world-countries", });
+chosenMap.topojson = import(`$lib/assets/quests/${chosenMap.id}/map.json`)
+chosenMap.data = {};
+chosenMap.data[chosenMap.objectsKey] = import(`$lib/assets/quests/${chosenMap.id}/elements.json`)
 
 // Settings
 export const soundEffects = localStorageWritable('settingsSoundEffects', true)

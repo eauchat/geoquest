@@ -1,0 +1,8 @@
+{
+  "id": "italy-regions",
+  "name": "🇮🇹 Italy (regions)",
+  "objectsKey": "sub",
+  "tags": [ "Italy" ],
+  "defaultTags": [ "Italy" ],
+  "mapSource": "https://github.com/DucarrougeR/Custom_Maps_topojson/blob/master/italy_regions.json"
+}
