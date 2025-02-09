@@ -17,7 +17,7 @@
     let fill = (found, disabled, color, geometryType) => {
         if (type == "basemap") return 'fill-black stroke-white stroke-[0.1]'
         else if (found) return 'fill-gray stroke-white stroke-[0.1]'
-        else if (disabled) return `fill-[#242424] stroke-white ${geometryType == "Point" ? "stroke-disabled_point" : "stroke[0.1]"}`
+        else if (disabled) return `fill-[#242424] stroke-white ${geometryType == "Point" ? "stroke-disabled_point" : "stroke-[0.1]"}`
         else return `${color} hover:fill-foreground cursor-pointer`;
     }
 
