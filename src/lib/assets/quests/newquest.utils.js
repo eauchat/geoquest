@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 import _ from "lodash";
+import * as fs from "fs";
 
 export const log = {
     main: function (color, prefix, args) {
@@ -23,7 +24,21 @@ export const json_stringify_pretty = function (object, prettier) {
     var string = JSON.stringify(object, null, 4); // 4 spaces indentation
     // contract arrays containing no children array or objects, which would otherwise take much space
     if (prettier) string = string.replace(/\[[^\]\[\{\}]*\]/g, function (match, offset, fullString) {
-      return JSON.stringify(JSON.parse(match));
+        // wrapped in try/catch in case it was matching something inside a string, so it does not fail
+        try { return JSON.stringify(JSON.parse(match)); }
+        catch (err) { return match; };
     });
     return string;
+};
+
+// get list of quests
+export const listQuests = function () {
+    try { return JSON.parse(fs.readFileSync(`./index.json`, { encoding: "utf8" })); }
+    catch (err) { abort(`Failed to parse quests "index.json" file.`, err) };
+};
+
+// import quest settings
+export const importQuestSettings = function (questId) {
+    try { return JSON.parse(fs.readFileSync(`./${questId}/index.json`, { encoding: "utf8" })); }
+    catch (err) { abort(`Failed to parse quest "${questId}/index.json" file, did you create it and filled it with quest settings?`, err) };
 };

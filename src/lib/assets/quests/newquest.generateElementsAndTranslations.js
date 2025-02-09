@@ -2,7 +2,7 @@
 import * as fs from "fs";
 import _ from "lodash";
 
-import { abort, json_stringify_pretty,log } from "./newquest.utils.js";
+import { abort, json_stringify_pretty, log, importQuestSettings } from "./newquest.utils.js";
 
 //\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 //\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
@@ -13,19 +13,13 @@ import { abort, json_stringify_pretty,log } from "./newquest.utils.js";
 const questId = process.argv[2];
 if (!questId) abort("Please pass new quest id as first argument!");
 
-// get list of quests
-let quests;
-try { quests = JSON.parse(fs.readFileSync(`./index.json`, { encoding: "utf8" })); }
-catch (err) { abort(`Failed to parse quests "index.json" file.`, err) };
-
 // check that there is a map file for the asked quest, and import it
 let mapFile;
 try { mapFile = JSON.parse(fs.readFileSync(`./${questId}/map.json`, { encoding: "utf8" })); }
 catch (err) { abort(`Missing map file for quest "${questId}", or map file is not an appropriate JSON file.`, err) };
 
-// check there is an object in quests to autobuild
-let questObject = _.find(quests, { id: questId });
-if (!questObject) abort(`You should create your new quest settings in "quests/index.json" file!`);
+// get quest object from file
+let questObject = importQuestSettings(questId);
 
 // check if there is "objectsKey" and is valid, if not suggest possible values for it
 if (!questObject.objectsKey || !mapFile.objects[questObject.objectsKey] || !mapFile.objects[questObject.objectsKey].geometries) abort(`Missing or invalid "objectKey" in "quests/index.json" "${questId}" quest object! Suggested "objectKey" that can work with your map file:`, _.keys(mapFile.objects));
@@ -50,6 +44,10 @@ let colorIndex = 0;
 _.each(mapFile.objects[questObject.objectsKey].geometries, function (geometryObject, geometryIndex) {
     if (!geometryObject.properties) return log.error(`Geometry with index "${geometryIndex}" is missing properties.`)
     else if (!geometryObject.properties.name) return log.error(`Geometry with index "${geometryIndex}" is missing name in properties.`, geometryObject.properties);
+
+    // if name is already taken, alert it at least so it's known
+    if (elements[geometryObject.properties.name]) log.warning(`There is already another geometry with the name "${geometryObject.properties.name}", this one will be replacing it.`, "# Current: ", json_stringify_pretty(geometryObject.properties), `# Will replace: `, geometryObject.properties.name +": "+ json_stringify_pretty(elements[geometryObject.properties.name]), "");
+
     if (geometryObject.properties.type !== "basemap") {
         let elemObj = elements[geometryObject.properties.name] = _.clone(geometryObject.properties);
         delete elemObj.name;
@@ -91,11 +89,11 @@ fs.writeFileSync(questFilesPaths.questsIndexTranslation, json_stringify_pretty(q
 //                                                  DONE
 //\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 
-log.info(`If you didn't do so already, you should consider adding some achievements related to this new quest in "asset/data/achivements.json" and their translations in "translations/en/achievements.json".`)
 log.success(`Created "${questId}"
     modified          "${questFilesPaths.questsIndexTranslation}"
-    created/modified  "`+ _.values(questFilesPaths).join(`"\n  created/modified "`)
+    created/modified  "`+ _.values(questFilesPaths).join(`"\n    created/modified  "`)
 );
+log.info(`If you didn't do so already, you should consider adding some achievements related to this new quest in "asset/data/achivements.json" and their translations in "translations/en/achievements.json".`)
 
 //\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 //\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
