@@ -78,6 +78,10 @@
             .value()
         originalToFind = toFind
 
+        // zoom to fit geometries to find
+        let toFindGeojson = _.filter($geojson.features, geometry => configuration.countries.includes(geometry.properties.name))
+        map.focusGeometries(toFindGeojson)
+
         if (configuration?.restart ?? true) restart()
 
         if (configuration?.mode === 'dailyQuest') {

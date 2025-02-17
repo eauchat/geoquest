@@ -13,14 +13,11 @@
     let svg
     let d3Svg
     let scale = 1
+    let t0
 
     $: path = getPath(scale)
     $: strokeWidth = 0.002 * scale
     $: mapData = _.zip($geojson.features, $geometries)
-    $: bounds = d3
-        .geoPath()
-        .projection($projection.scale(1).translate([0, 0]).rotate([-11, 0]))
-        .bounds($geojson)
 
     function getPath(s) {
         return d3
@@ -40,11 +37,20 @@
     let zoom = d3.zoom().scaleExtent([1, chosenMap.maxZoom || 50]).on('zoom', zoomed).clickDistance(10)
 
     function centerMap() {
-        scale = 0.95 / Math.max((bounds[1][0] - bounds[0][0]) / $clientX, (bounds[1][1] - bounds[0][1]) / $clientY)
-        $projection.scale(scale).translate([($clientX - scale * (bounds[1][0] + bounds[0][0])) / 2, ($clientY - scale * (bounds[1][1] + bounds[0][1])) / 2])
+
+        // (re)set initial translation according to window dimensions
+        t0 = {
+            k: $clientX / 2 / Math.PI,
+            x: $clientX / 2,
+            y: $clientY / 2,
+        }
+
+        // figure out and apply zoom
+        $projection.scale(t0.k).translate([t0.x, t0.y])
+        d3Svg.call(zoom)
+
         path = getPath(scale) // It's important to reset the path, otherwise an height change such as full screen might screw up the map
 
-        if ($clientX < 800) d3Svg.transition().duration(750).call(zoom.transform, d3.zoomIdentity)
     }
 
     export function zoomIn() {
@@ -55,10 +61,29 @@
         zoom.scaleBy(d3Svg.transition().duration(200), 1 / 1.8)
     }
 
+    // zoom map around passed features
+    export function focusGeometries(features) {
+
+        // support passing an array of features
+        if (_.isArray(features)) features = { type: "FeatureCollection", features: features, }
+
+        // fit projection to passed feature(s) (with padding around it to give air to focused shape)
+        var padding = 10
+        $projection.fitExtent([[padding, padding], [$clientX - padding*2, $clientY - padding*2]], features)
+        // map.projection.fitSize([map.t0.width, map.t0.height], features) // without padding
+
+        // figure out zoom to apply (scale and translation)
+        let k = $projection.scale() / t0.k
+        let x = $projection.translate()[0] - t0.x * k
+        let y = $projection.translate()[1] - t0.y * k
+
+        // apply zoom
+        d3Svg.transition().duration(1500).call(zoom.transform, d3.zoomIdentity.translate(x,y).scale(k))
+
+    }
+
     onMount(async () => {
         d3Svg = d3.select(svg)
-        d3Svg.call(zoom)
-
         centerMap()
     })
 </script>
