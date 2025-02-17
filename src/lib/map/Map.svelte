@@ -7,7 +7,7 @@
     import Country from '$lib/map/Country.svelte'
     import CountryHelper from '$lib/map/CountryHelper.svelte'
     import IslandHelper from '$lib/map/IslandHelper.svelte'
-    import {clientX, clientY, geojson, geometries, mousePos, projection} from '$lib/store'
+    import {chosenMap, clientX, clientY, geojson, geometries, mousePos, projection} from '$lib/store'
 
     let transform = d3.zoomIdentity
     let svg
@@ -37,7 +37,7 @@
         if (e.sourceEvent) $mousePos = {x: e.sourceEvent.clientX, y: e.sourceEvent.clientY}
     }
 
-    let zoom = d3.zoom().scaleExtent([1, 50]).on('zoom', zoomed).clickDistance(10)
+    let zoom = d3.zoom().scaleExtent([1, chosenMap.maxZoom || 50]).on('zoom', zoomed).clickDistance(10)
 
     function centerMap() {
         scale = 0.95 / Math.max((bounds[1][0] - bounds[0][0]) / $clientX, (bounds[1][1] - bounds[0][1]) / $clientY)
