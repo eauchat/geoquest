@@ -14,6 +14,7 @@
     let d3Svg
     let scale = 1
     let t0
+    let lastFocusedFeatures
 
     $: path = getPath(scale)
     $: strokeWidth = 0.002 * scale
@@ -22,7 +23,10 @@
     function getPath(s) {
         return d3
             .geoPath()
-            .projection({stream: stream => $projection.stream(stream)})
+            .projection({stream: stream => {
+                if (t0) return $projection.scale(t0.k).translate([t0.x, t0.y]).stream(stream)
+                else return $projection.stream(stream)
+            }})
             .pointRadius(0.005 * s)
     }
 
@@ -53,6 +57,13 @@
 
     }
 
+    function centerMapAndFocus() {
+        // reset t0, map scale...
+        centerMap()
+        // need the timeout because otherwise it messes up the ability to use focusGeometries again, making it focusing in wrong places
+        setTimeout(function () { focusGeometries(undefined, true) }, 100);
+    }
+
     export function zoomIn() {
         zoom.scaleBy(d3Svg.transition().duration(200), 1.8)
     }
@@ -62,10 +73,16 @@
     }
 
     // zoom map around passed features
-    export function focusGeometries(features) {
+    export function focusGeometries(features, avoidTransition) {
+
+        // if no feature passed, use whole map
+        if (!features) features = lastFocusedFeatures || $geojson
 
         // support passing an array of features
         if (_.isArray(features)) features = { type: "FeatureCollection", features: features, }
+
+        // save last focused features for reuse on eventual window resize
+        lastFocusedFeatures = features
 
         // fit projection to passed feature(s) (with padding around it to give air to focused shape)
         var padding = 10
@@ -78,7 +95,8 @@
         let y = $projection.translate()[1] - t0.y * k
 
         // apply zoom
-        d3Svg.transition().duration(1500).call(zoom.transform, d3.zoomIdentity.translate(x,y).scale(k))
+        if (avoidTransition) d3Svg.call(zoom.transform, d3.zoomIdentity.translate(x,y).scale(k))
+        else d3Svg.transition().duration(1500).call(zoom.transform, d3.zoomIdentity.translate(x,y).scale(k))
 
     }
 
@@ -88,7 +106,7 @@
     })
 </script>
 
-<svelte:window on:resize={centerMap} />
+<svelte:window on:resize={centerMapAndFocus} />
 
 <svg bind:this={svg} transition:fly|global={{y: 20, duration: 1500}} width={$clientX} height={$clientY} viewBox="0 0 {$clientX} {$clientY}">
     <g shape-rendering="auto" {transform}>
