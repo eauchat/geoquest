@@ -15,6 +15,7 @@
 
     let feature = data[0]
     let topojson = data[1]
+    let islandHelpersMargin = data[0]?.properties.islandHelpersMargin;
 
     $: found = foundFeatures.includes(topojson)
     $: disabled = !unfoundFeatures.includes(topojson)
@@ -28,7 +29,7 @@
     on:click={() => clickCountryHandler(topojson)}
     style="stroke-width: {strokeWidth}px"
     class="
-        stroke-white 
+        stroke-white
         {found || disabled
         ? 'fill-transparent opacity-20'
         : `
@@ -41,5 +42,5 @@
     "
     stroke-dasharray="1,{0.006 * scale}"
     stroke-linecap="round"
-    d={path(buffer(turf.concave(antimeridian(turf.explode(feature)), {units: 'kilometers', maxEdge: 100})))}
+    d={path(buffer(turf.concave(antimeridian(turf.explode(feature)), {units: 'kilometers', maxEdge: 100}), islandHelpersMargin))}
 />

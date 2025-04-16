@@ -27,9 +27,9 @@ export function antimeridian(featureCollection) {
     return featureCollection
 }
 
-export function buffer(feature) {
+export function buffer(feature, margin=40) {
     if (feature === null) return ''
-    return turf.concave(antimeridian(turf.explode(turf.buffer(feature, 40))), {units: 'kilometers', maxEdge: 300})
+    return turf.concave(antimeridian(turf.explode(turf.buffer(feature, margin))), {units: 'kilometers', maxEdge: 300})
 }
 
 export function dictToArray(d) {
