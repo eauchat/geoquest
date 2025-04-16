@@ -11,7 +11,7 @@
         {
             "type": "basemap",
             "style": "stroke-width: 0.03; fill: none;",
-            "filePathRelativeToQuestDir": "../../basemaps/world-provinces.geojson",
+            "filePathRelativeToQuestDir": "../world-bigger-provinces/world-bigger-provinces.geojson",
             "namePropertyKey": "name"
         },
         {

@@ -701,6 +701,9 @@
     " Florida ": {
         "tags": ["BASEMAP"]
     },
+    " Georgia  ": {
+        "tags": ["BASEMAP"]
+    },
     " Hawaii ": {
         "tags": ["BASEMAP"]
     },
@@ -1431,7 +1434,7 @@
         }
     },
     "Dahuk": {
-        "color": 0,
+        "color": 2,
         "tags": ["Population:>500K","MainCities:Asia","MainCities:Middle East"],
         "info": {
             "country": "Iraq",
@@ -1485,7 +1488,7 @@
         }
     },
     "Arlington": {
-        "color": 0,
+        "color": 1,
         "tags": ["Population:>500K","MainCities:America","MainCities:North America","MainCities:United States"],
         "info": {
             "country": "United States",
@@ -1494,7 +1497,7 @@
         }
     },
     "Stamford": {
-        "color": 1,
+        "color": 0,
         "tags": ["Population:>500K","MainCities:America","MainCities:North America","MainCities:United States"],
         "info": {
             "country": "United States",
@@ -1611,7 +1614,7 @@
         }
     },
     "Ansan": {
-        "color": 0,
+        "color": 1,
         "tags": ["Population:>500K","MainCities:Asia"],
         "info": {
             "country": "Korea, South",
@@ -1683,7 +1686,7 @@
         }
     },
     "Abbottabad": {
-        "color": 0,
+        "color": 1,
         "tags": ["Population:>500K","Population:>1M","MainCities:Asia"],
         "info": {
             "country": "Pakistan",
@@ -1737,7 +1740,7 @@
         }
     },
     "Az Zarqa": {
-        "color": 2,
+        "color": 3,
         "tags": ["Population:>500K","MainCities:Asia","MainCities:Middle East"],
         "info": {
             "country": "Jordan",
@@ -1881,7 +1884,7 @@
         }
     },
     "Kawasaki": {
-        "color": 3,
+        "color": 2,
         "tags": ["Population:>500K","Population:>1M","MainCities:Asia","MainCities:Japan"],
         "info": {
             "country": "Japan",
@@ -1926,7 +1929,7 @@
         }
     },
     "Silvassa": {
-        "color": 0,
+        "color": 1,
         "tags": ["CountryCapitals:India"],
         "info": {
             "country": "India",
@@ -2061,7 +2064,7 @@
         }
     },
     "Sao Jose dos Campos": {
-        "color": 2,
+        "color": 3,
         "tags": ["Population:>500K","MainCities:America","MainCities:South America","MainCities:Brazil"],
         "info": {
             "country": "Brazil",
@@ -2106,7 +2109,7 @@
         }
     },
     "Stockton": {
-        "color": 3,
+        "color": 0,
         "tags": ["Population:>500K","MainCities:America","MainCities:North America","MainCities:United States"],
         "info": {
             "country": "United States",
@@ -2169,7 +2172,7 @@
         }
     },
     "Covington": {
-        "color": 2,
+        "color": 3,
         "tags": ["Population:>500K","MainCities:America","MainCities:North America","MainCities:United States"],
         "info": {
             "country": "United States",
@@ -2232,7 +2235,7 @@
         }
     },
     "Brighton": {
-        "color": 2,
+        "color": 0,
         "tags": ["Population:>500K","MainCities:Europe"],
         "info": {
             "country": "United Kingdom",
@@ -2250,7 +2253,7 @@
         }
     },
     "Moshi": {
-        "color": 0,
+        "color": 1,
         "tags": ["Population:>500K","MainCities:Africa"],
         "info": {
             "country": "United Republic of Tanzania",
@@ -2340,7 +2343,7 @@
         }
     },
     "Cherkessk": {
-        "color": 2,
+        "color": 3,
         "tags": ["CountryCapitals:Russia"],
         "info": {
             "country": "Russia",
@@ -2574,7 +2577,7 @@
         }
     },
     "Beihai": {
-        "color": 0,
+        "color": 2,
         "tags": ["Population:>500K","MainCities:Asia","MainCities:China"],
         "info": {
             "country": "China",
@@ -2835,7 +2838,7 @@
         }
     },
     "Xiangtan": {
-        "color": 1,
+        "color": 2,
         "tags": ["Population:>500K","Population:>1M","Population:>2M","MainCities:Asia","MainCities:China"],
         "info": {
             "country": "China",
@@ -2952,7 +2955,7 @@
         }
     },
     "Kitakyushu": {
-        "color": 2,
+        "color": 1,
         "tags": ["Population:>500K","CountryCapitals:Japan","MainCities:Asia","MainCities:Japan"],
         "info": {
             "country": "Japan",
@@ -3186,7 +3189,7 @@
         }
     },
     "Ujjain": {
-        "color": 1,
+        "color": 2,
         "tags": ["Population:>500K","MainCities:Asia","MainCities:India"],
         "info": {
             "country": "India",
@@ -3267,7 +3270,7 @@
         }
     },
     "Al Hillah (I)": {
-        "color": 2,
+        "color": 3,
         "tags": ["Population:>500K","MainCities:Asia","MainCities:Middle East"],
         "info": {
             "country": "Iraq",
@@ -3321,7 +3324,7 @@
         }
     },
     "Songnam": {
-        "color": 1,
+        "color": 0,
         "tags": ["Population:>500K","MainCities:Asia"],
         "info": {
             "country": "Korea, South",
@@ -3366,7 +3369,7 @@
         }
     },
     "Changhua": {
-        "color": 2,
+        "color": 3,
         "tags": ["Population:>500K","MainCities:Asia"],
         "info": {
             "country": "Taiwan",
@@ -3393,7 +3396,7 @@
         }
     },
     "Tacoma": {
-        "color": 1,
+        "color": 0,
         "tags": ["Population:>500K","MainCities:America","MainCities:North America","MainCities:United States"],
         "info": {
             "country": "United States",
@@ -3411,7 +3414,7 @@
         }
     },
     "Carson City": {
-        "color": 3,
+        "color": 2,
         "tags": ["CountryCapitals:United States"],
         "info": {
             "country": "United States",
@@ -3537,7 +3540,7 @@
         }
     },
     "Lansing": {
-        "color": 1,
+        "color": 0,
         "tags": ["CountryCapitals:United States"],
         "info": {
             "country": "United States",
@@ -3591,7 +3594,7 @@
         }
     },
     "Edinburgh": {
-        "color": 1,
+        "color": 2,
         "tags": ["Population:>500K","MainCities:Europe"],
         "info": {
             "country": "United Kingdom",
@@ -3600,7 +3603,7 @@
         }
     },
     "Newcastle": {
-        "color": 2,
+        "color": 3,
         "tags": ["Population:>500K","MainCities:Europe"],
         "info": {
             "country": "United Kingdom",
@@ -3645,7 +3648,7 @@
         }
     },
     "Leeds": {
-        "color": 3,
+        "color": 2,
         "tags": ["Population:>500K","Population:>1M","MainCities:Europe"],
         "info": {
             "country": "United Kingdom",
@@ -3996,7 +3999,7 @@
         }
     },
     "Turin": {
-        "color": 3,
+        "color": 0,
         "tags": ["Population:>500K","Population:>1M","MainCities:Europe"],
         "info": {
             "country": "Italy",
@@ -4266,7 +4269,7 @@
         }
     },
     "Zhuzhou": {
-        "color": 1,
+        "color": 3,
         "tags": ["Population:>500K","Population:>1M","MainCities:Asia","MainCities:China"],
         "info": {
             "country": "China",
@@ -4347,7 +4350,7 @@
         }
     },
     "Langfang": {
-        "color": 2,
+        "color": 1,
         "tags": ["Population:>500K","MainCities:Asia","MainCities:China"],
         "info": {
             "country": "China",
@@ -4392,7 +4395,7 @@
         }
     },
     "Kaifeng": {
-        "color": 3,
+        "color": 2,
         "tags": ["Population:>500K","MainCities:Asia","MainCities:China"],
         "info": {
             "country": "China",
@@ -4581,7 +4584,7 @@
         }
     },
     "Zhenjiang": {
-        "color": 0,
+        "color": 1,
         "tags": ["Population:>500K","MainCities:Asia","MainCities:China"],
         "info": {
             "country": "China",
@@ -4680,7 +4683,7 @@
         }
     },
     "Hegang": {
-        "color": 3,
+        "color": 0,
         "tags": ["Population:>500K","MainCities:Asia","MainCities:China"],
         "info": {
             "country": "China",
@@ -4770,7 +4773,7 @@
         }
     },
     "Imphal": {
-        "color": 1,
+        "color": 2,
         "tags": ["CountryCapitals:India"],
         "info": {
             "country": "India",
@@ -4788,7 +4791,7 @@
         }
     },
     "Toulouse": {
-        "color": 0,
+        "color": 1,
         "tags": ["Population:>500K","MainCities:Europe"],
         "info": {
             "country": "France",
@@ -4833,7 +4836,7 @@
         }
     },
     "Oakland": {
-        "color": 3,
+        "color": 1,
         "tags": ["Population:>500K","Population:>1M","MainCities:America","MainCities:North America","MainCities:United States"],
         "info": {
             "country": "United States",
@@ -4878,7 +4881,7 @@
         }
     },
     "Louisville": {
-        "color": 0,
+        "color": 1,
         "tags": ["Population:>500K","MainCities:America","MainCities:North America","MainCities:United States"],
         "info": {
             "country": "United States",
@@ -4950,7 +4953,7 @@
         }
     },
     "Hue": {
-        "color": 0,
+        "color": 2,
         "tags": ["Population:>500K","MainCities:Asia"],
         "info": {
             "country": "Vietnam",
@@ -5076,7 +5079,7 @@
         }
     },
     "Pietermaritzburg": {
-        "color": 1,
+        "color": 2,
         "tags": ["Population:>500K","MainCities:Africa"],
         "info": {
             "country": "South Africa",
@@ -5463,7 +5466,7 @@
         }
     },
     "Yichun (JX)": {
-        "color": 0,
+        "color": 2,
         "tags": ["Population:>500K","MainCities:Asia","MainCities:China"],
         "info": {
             "country": "China",
@@ -5499,7 +5502,7 @@
         }
     },
     "Kumasi": {
-        "color": 0,
+        "color": 1,
         "tags": ["Population:>500K","Population:>1M","MainCities:Africa"],
         "info": {
             "country": "Ghana",
@@ -5724,7 +5727,7 @@
         }
     },
     "Macau": {
-        "color": 1,
+        "color": 3,
         "tags": ["Population:>500K","CountryCapitals:China","MainCities:Asia","MainCities:China"],
         "info": {
             "country": "China",
@@ -5976,7 +5979,7 @@
         }
     },
     "Jullundur": {
-        "color": 2,
+        "color": 3,
         "tags": ["Population:>500K","MainCities:Asia","MainCities:India"],
         "info": {
             "country": "India",
@@ -5994,7 +5997,7 @@
         }
     },
     "Moradabad": {
-        "color": 0,
+        "color": 1,
         "tags": ["Population:>500K","MainCities:Asia","MainCities:India"],
         "info": {
             "country": "India",
@@ -6003,7 +6006,7 @@
         }
     },
     "Ghaziabad": {
-        "color": 1,
+        "color": 0,
         "tags": ["Population:>500K","Population:>1M","MainCities:Asia","MainCities:India"],
         "info": {
             "country": "India",
@@ -6030,7 +6033,7 @@
         }
     },
     "Meerut": {
-        "color": 0,
+        "color": 3,
         "tags": ["Population:>500K","Population:>1M","MainCities:Asia","MainCities:India"],
         "info": {
             "country": "India",
@@ -6282,7 +6285,7 @@
         }
     },
     "Baltimore": {
-        "color": 0,
+        "color": 2,
         "tags": ["Population:>500K","Population:>1M","Population:>2M","MainCities:America","MainCities:North America","MainCities:United States"],
         "info": {
             "country": "United States",
@@ -6579,7 +6582,7 @@
         }
     },
     "Naltchik": {
-        "color": 1,
+        "color": 0,
         "tags": ["CountryCapitals:Russia"],
         "info": {
             "country": "Russia",
@@ -6813,7 +6816,7 @@
         }
     },
     "Daejeon": {
-        "color": 3,
+        "color": 2,
         "tags": ["Population:>500K","Population:>1M","MainCities:Asia"],
         "info": {
             "country": "Korea, South",
@@ -6822,7 +6825,7 @@
         }
     },
     "Gwangju": {
-        "color": 0,
+        "color": 1,
         "tags": ["Population:>500K","Population:>1M","MainCities:Asia"],
         "info": {
             "country": "Korea, South",
@@ -6831,7 +6834,7 @@
         }
     },
     "Busan": {
-        "color": 1,
+        "color": 0,
         "tags": ["Population:>500K","Population:>1M","Population:>2M","MainCities:Asia"],
         "info": {
             "country": "Korea, South",
@@ -7002,7 +7005,7 @@
         }
     },
     "Ibadan": {
-        "color": 0,
+        "color": 3,
         "tags": ["Population:>500K","Population:>1M","Population:>2M","MainCities:Africa"],
         "info": {
             "country": "Nigeria",
@@ -7335,7 +7338,7 @@
         }
     },
     "Hengyang": {
-        "color": 2,
+        "color": 0,
         "tags": ["Population:>500K","Population:>1M","MainCities:Asia","MainCities:China"],
         "info": {
             "country": "China",
@@ -7533,7 +7536,7 @@
         }
     },
     "Kyoto": {
-        "color": 0,
+        "color": 3,
         "tags": ["Population:>500K","Population:>1M","MainCities:Asia","MainCities:Japan"],
         "info": {
             "country": "Japan",
@@ -7623,7 +7626,7 @@
         }
     },
     "Thiruvananthapuram": {
-        "color": 2,
+        "color": 1,
         "tags": ["Population:>500K","CountryCapitals:India","MainCities:Asia","MainCities:India"],
         "info": {
             "country": "India",
@@ -7632,7 +7635,7 @@
         }
     },
     "Kochi": {
-        "color": 3,
+        "color": 2,
         "tags": ["Population:>500K","Population:>1M","MainCities:Asia","MainCities:India"],
         "info": {
             "country": "India",
@@ -7668,7 +7671,7 @@
         }
     },
     "Mysore": {
-        "color": 3,
+        "color": 1,
         "tags": ["Population:>500K","MainCities:Asia","MainCities:India"],
         "info": {
             "country": "India",
@@ -7749,7 +7752,7 @@
         }
     },
     "Mosul": {
-        "color": 0,
+        "color": 1,
         "tags": ["Population:>500K","Population:>1M","MainCities:Asia","MainCities:Middle East"],
         "info": {
             "country": "Iraq",
@@ -7758,7 +7761,7 @@
         }
     },
     "An Najaf": {
-        "color": 1,
+        "color": 0,
         "tags": ["Population:>500K","MainCities:Asia","MainCities:Middle East"],
         "info": {
             "country": "Iraq",
@@ -7785,7 +7788,7 @@
         }
     },
     "Hamadan": {
-        "color": 0,
+        "color": 1,
         "tags": ["Population:>500K","MainCities:Asia","MainCities:Middle East"],
         "info": {
             "country": "Iran",
@@ -7902,7 +7905,7 @@
         }
     },
     "Pointe-Noire": {
-        "color": 1,
+        "color": 3,
         "tags": ["Population:>500K","MainCities:Africa"],
         "info": {
             "country": "Congo (Brazzaville)",
@@ -8037,7 +8040,7 @@
         }
     },
     "Rosario": {
-        "color": 1,
+        "color": 3,
         "tags": ["Population:>500K","Population:>1M","MainCities:America","MainCities:South America"],
         "info": {
             "country": "Argentina",
@@ -8136,7 +8139,7 @@
         }
     },
     "Bujumbura": {
-        "color": 0,
+        "color": 1,
         "tags": ["Capitals:world","Capitals:Africa"],
         "info": {
             "country": "Burundi",
@@ -8145,7 +8148,7 @@
         }
     },
     "Pago Pago": {
-        "color": 1,
+        "color": 3,
         "tags": ["CountryCapitals:United States"],
         "info": {
             "country": "United States",
@@ -8190,7 +8193,7 @@
         }
     },
     "Gaza": {
-        "color": 2,
+        "color": 3,
         "tags": ["Population:>500K","MainCities:Asia","MainCities:Middle East"],
         "info": {
             "country": "Indeterminate",
@@ -8244,7 +8247,7 @@
         }
     },
     "Bhubaneshwar": {
-        "color": 0,
+        "color": 1,
         "tags": ["Population:>500K","CountryCapitals:India","MainCities:Asia","MainCities:India"],
         "info": {
             "country": "India",
@@ -8298,7 +8301,7 @@
         }
     },
     "San Jose (USA)": {
-        "color": 2,
+        "color": 3,
         "tags": ["Population:>500K","Population:>1M","MainCities:America","MainCities:North America","MainCities:United States"],
         "info": {
             "country": "United States",
@@ -8397,7 +8400,7 @@
         }
     },
     "San Antonio": {
-        "color": 1,
+        "color": 2,
         "tags": ["Population:>500K","Population:>1M","MainCities:America","MainCities:North America","MainCities:United States"],
         "info": {
             "country": "United States",
@@ -8406,7 +8409,7 @@
         }
     },
     "Valencia (V)": {
-        "color": 2,
+        "color": 3,
         "tags": ["Population:>500K","Population:>1M","MainCities:America","MainCities:South America"],
         "info": {
             "country": "Venezuela",
@@ -8532,7 +8535,7 @@
         }
     },
     "Juneau": {
-        "color": 0,
+        "color": 1,
         "tags": ["CountryCapitals:United States"],
         "info": {
             "country": "United States",
@@ -8640,7 +8643,7 @@
         }
     },
     "Port-au-Prince": {
-        "color": 0,
+        "color": 2,
         "tags": ["Population:>500K","Capitals:world","Population:>1M","Capitals:America","Capitals:Caribbean","MainCities:America","MainCities:Caribbean"],
         "info": {
             "country": "Haiti",
@@ -8748,7 +8751,7 @@
         }
     },
     "Islamabad": {
-        "color": 0,
+        "color": 2,
         "tags": ["Population:>500K","Capitals:world","Capitals:Asia","MainCities:Asia"],
         "info": {
             "country": "Pakistan",
@@ -8802,7 +8805,7 @@
         }
     },
     "Pretoria": {
-        "color": 2,
+        "color": 0,
         "tags": ["Population:>500K","Capitals:world","Population:>1M","Capitals:Africa","MainCities:Africa"],
         "info": {
             "country": "South Africa",
@@ -9099,7 +9102,7 @@
         }
     },
     "Tijuana": {
-        "color": 3,
+        "color": 1,
         "tags": ["Population:>500K","Population:>1M","MainCities:America","MainCities:North America"],
         "info": {
             "country": "Mexico",
@@ -9288,7 +9291,7 @@
         }
     },
     "Riga": {
-        "color": 0,
+        "color": 1,
         "tags": ["Population:>500K","Capitals:world","Capitals:Europe","MainCities:Europe"],
         "info": {
             "country": "Latvia",
@@ -9405,7 +9408,7 @@
         }
     },
     "Lyon": {
-        "color": 1,
+        "color": 3,
         "tags": ["Population:>500K","Population:>1M","MainCities:Europe"],
         "info": {
             "country": "France",
@@ -9540,7 +9543,7 @@
         }
     },
     "Pingxiang": {
-        "color": 0,
+        "color": 1,
         "tags": ["Population:>500K","MainCities:Asia","MainCities:China"],
         "info": {
             "country": "China",
@@ -9558,7 +9561,7 @@
         }
     },
     "Kikwit": {
-        "color": 2,
+        "color": 0,
         "tags": ["Population:>500K","MainCities:Africa"],
         "info": {
             "country": "Congo (Kinshasa)",
@@ -9576,7 +9579,7 @@
         }
     },
     "Lilongwe": {
-        "color": 0,
+        "color": 3,
         "tags": ["Population:>500K","Capitals:world","Capitals:Africa","MainCities:Africa"],
         "info": {
             "country": "Malawi",
@@ -9585,7 +9588,7 @@
         }
     },
     "Guatemala": {
-        "color": 1,
+        "color": 3,
         "tags": ["Population:>500K","Capitals:world","Population:>1M","Capitals:America","Capitals:North America","MainCities:America","MainCities:North America"],
         "info": {
             "country": "Guatemala",
@@ -9783,7 +9786,7 @@
         }
     },
     "Coimbatore": {
-        "color": 3,
+        "color": 0,
         "tags": ["Population:>500K","Population:>1M","MainCities:Asia","MainCities:India"],
         "info": {
             "country": "India",
@@ -9801,7 +9804,7 @@
         }
     },
     "Brazzaville": {
-        "color": 1,
+        "color": 2,
         "tags": ["Population:>500K","Capitals:world","Population:>1M","Capitals:Africa","MainCities:Africa"],
         "info": {
             "country": "Congo (Brazzaville)",
@@ -10134,7 +10137,7 @@
         }
     },
     "Cotonou": {
-        "color": 2,
+        "color": 3,
         "tags": ["Population:>500K","Capitals:world","Capitals:Africa","MainCities:Africa"],
         "info": {
             "country": "Benin",
@@ -10305,7 +10308,7 @@
         }
     },
     "Apia": {
-        "color": 1,
+        "color": 2,
         "tags": ["Capitals:world","Capitals:Oceania"],
         "info": {
             "country": "Samoa",
@@ -10368,7 +10371,7 @@
         }
     },
     "Kaohsiung": {
-        "color": 0,
+        "color": 2,
         "tags": ["Population:>500K","Population:>1M","Population:>2M","MainCities:Asia"],
         "info": {
             "country": "Taiwan",
@@ -10476,7 +10479,7 @@
         }
     },
     "Boston": {
-        "color": 0,
+        "color": 2,
         "tags": ["Population:>500K","CountryCapitals:United States","Population:>1M","Population:>2M","MainCities:America","MainCities:North America","MainCities:United States"],
         "info": {
             "country": "United States",
@@ -10485,7 +10488,7 @@
         }
     },
     "Tampa": {
-        "color": 1,
+        "color": 0,
         "tags": ["Population:>500K","Population:>1M","Population:>2M","MainCities:America","MainCities:North America","MainCities:United States"],
         "info": {
             "country": "United States",
@@ -10521,7 +10524,7 @@
         }
     },
     "Ho Chi Minh City": {
-        "color": 1,
+        "color": 0,
         "tags": ["Population:>500K","Population:>1M","Population:>2M","MainCities:Asia"],
         "info": {
             "country": "Vietnam",
@@ -10593,7 +10596,7 @@
         }
     },
     "Zürich": {
-        "color": 1,
+        "color": 3,
         "tags": ["Population:>500K","Population:>1M","MainCities:Europe"],
         "info": {
             "country": "Switzerland",
@@ -10791,7 +10794,7 @@
         }
     },
     "Lanzhou": {
-        "color": 3,
+        "color": 0,
         "tags": ["Population:>500K","CountryCapitals:China","Population:>1M","Population:>2M","MainCities:Asia","MainCities:China"],
         "info": {
             "country": "China",
@@ -11304,7 +11307,7 @@
         }
     },
     "Curitiba": {
-        "color": 0,
+        "color": 1,
         "tags": ["Population:>500K","CountryCapitals:Brazil","Population:>1M","Population:>2M","MainCities:America","MainCities:South America","MainCities:Brazil"],
         "info": {
             "country": "Brazil",
@@ -11340,7 +11343,7 @@
         }
     },
     "Montréal": {
-        "color": 0,
+        "color": 1,
         "tags": ["Population:>500K","Population:>1M","Population:>2M","MainCities:America","MainCities:North America"],
         "info": {
             "country": "Canada",
@@ -11475,7 +11478,7 @@
         }
     },
     "Chicago": {
-        "color": 3,
+        "color": 0,
         "tags": ["Population:>500K","Population:>1M","Population:>2M","MainCities:America","MainCities:North America","MainCities:United States"],
         "info": {
             "country": "United States",
@@ -11556,7 +11559,7 @@
         }
     },
     "Lima": {
-        "color": 0,
+        "color": 1,
         "tags": ["Population:>500K","Capitals:world","Population:>1M","Population:>2M","Capitals:America","Capitals:South America","MainCities:America","MainCities:South America"],
         "info": {
             "country": "Peru",
@@ -11574,7 +11577,7 @@
         }
     },
     "Johannesburg": {
-        "color": 2,
+        "color": 3,
         "tags": ["Population:>500K","Population:>1M","Population:>2M","MainCities:Africa"],
         "info": {
             "country": "South Africa",
@@ -11691,7 +11694,7 @@
         }
     },
     "Bangalore": {
-        "color": 3,
+        "color": 0,
         "tags": ["Population:>500K","CountryCapitals:India","Population:>1M","Population:>2M","MainCities:Asia","MainCities:India"],
         "info": {
             "country": "India",
@@ -11727,7 +11730,7 @@
         }
     },
     "Tehran": {
-        "color": 3,
+        "color": 1,
         "tags": ["Population:>500K","Capitals:world","Population:>1M","Population:>2M","Capitals:Asia","Capitals:Middle East","MainCities:Asia","MainCities:Middle East"],
         "info": {
             "country": "Iran",
@@ -11808,7 +11811,7 @@
         }
     },
     "Washington, D.C.": {
-        "color": 0,
+        "color": 3,
         "tags": ["Population:>500K","Capitals:world","Population:>1M","Population:>2M","Capitals:America","Capitals:North America","MainCities:America","MainCities:North America","MainCities:United States"],
         "info": {
             "country": "United States",
@@ -11826,7 +11829,7 @@
         }
     },
     "London": {
-        "color": 2,
+        "color": 3,
         "tags": ["Population:>500K","Capitals:world","Population:>1M","Population:>2M","Capitals:Europe","MainCities:Europe"],
         "info": {
             "country": "United Kingdom",
@@ -11880,7 +11883,7 @@
         }
     },
     "Lagos": {
-        "color": 0,
+        "color": 1,
         "tags": ["Population:>500K","Population:>1M","Population:>2M","MainCities:Africa"],
         "info": {
             "country": "Nigeria",
@@ -11898,7 +11901,7 @@
         }
     },
     "Beijing": {
-        "color": 2,
+        "color": 3,
         "tags": ["Population:>500K","Capitals:world","Population:>1M","Population:>2M","Capitals:Asia","MainCities:Asia","MainCities:China"],
         "info": {
             "country": "China",
@@ -11997,7 +12000,7 @@
         }
     },
     "Rio de Janeiro": {
-        "color": 1,
+        "color": 0,
         "tags": ["Population:>500K","Population:>1M","Population:>2M","MainCities:America","MainCities:South America","MainCities:Brazil"],
         "info": {
             "country": "Brazil",
@@ -12033,7 +12036,7 @@
         }
     },
     "Hong Kong": {
-        "color": 1,
+        "color": 2,
         "tags": ["Population:>500K","Population:>1M","Population:>2M","CountryCapitals:China","MainCities:Asia","MainCities:China"],
         "info": {
             "country": "China",
