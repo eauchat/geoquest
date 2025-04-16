@@ -16,7 +16,7 @@
     let t0
     let lastFocusedFeatures
 
-    $: path = getPath(scale)
+    $: path = getPath(scale * 200)
     $: strokeWidth = 0.002 * scale
     $: mapData = _.zip($geojson.features, $geometries)
 
@@ -53,7 +53,7 @@
         $projection.scale(t0.k).translate([t0.x, t0.y])
         d3Svg.call(zoom)
 
-        path = getPath(scale) // It's important to reset the path, otherwise an height change such as full screen might screw up the map
+        path = getPath(scale * 200) // It's important to reset the path, otherwise an height change such as full screen might screw up the map
 
     }
 
