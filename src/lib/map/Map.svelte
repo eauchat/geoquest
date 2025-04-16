@@ -17,7 +17,7 @@
     let lastFocusedFeatures
 
     $: path = getPath(scale * 200)
-    $: strokeWidth = 0.002 * scale
+    $: strokeWidth = 0.2 * scale
     $: mapData = _.zip($geojson.features, $geometries)
 
     function getPath(s) {

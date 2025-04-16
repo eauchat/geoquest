@@ -40,7 +40,7 @@
             hover:fill-foreground
         `}
     "
-    stroke-dasharray="1,{0.006 * scale}"
+    stroke-dasharray="1,{0.6 * scale}"
     stroke-linecap="round"
     d={path(buffer(turf.concave(antimeridian(turf.explode(feature)), {units: 'kilometers', maxEdge: 100}), islandHelpersMargin))}
 />
