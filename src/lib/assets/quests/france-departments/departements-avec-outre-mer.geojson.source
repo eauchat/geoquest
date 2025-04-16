@@ -1,7 +1,0 @@
-From: https://github.com/gregoiredavid/france-geojson/
-Downloaded: https://raw.githubusercontent.com/gregoiredavid/france-geojson/refs/heads/master/departements-avec-outre-mer.geojson
-Processing:
-    - Simplified with https://mapshaper.org/ with factor of 2.4%.
-    - Reversed coordinates.
-    - Added gq_color, gq_tags and gq_helper values in each feature properties.
-Name in properties: "nom"

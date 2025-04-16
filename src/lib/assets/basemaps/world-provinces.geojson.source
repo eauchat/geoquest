@@ -1,5 +1,0 @@
-From: https://github.com/nvkelso/natural-earth-vector/tree/master/geojson
-Downloaded: https://raw.githubusercontent.com/nvkelso/natural-earth-vector/refs/heads/master/geojson/ne_50m_admin_1_states_provinces_lakes.geojson
-Processing:
-    - Autocolored (added "gq_color")
-Name in properties: "name"
