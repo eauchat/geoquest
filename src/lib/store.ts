@@ -31,6 +31,20 @@ async function loadJsonFiles (jsonFiles) {
     }));
 }
 
+// make complete list of achievements
+export const achievements = await buildAchievementsList();
+async function buildAchievementsList () {
+    return _.reduce(questsList, async (iteratee, questId) => {
+        let achievementsList = await iteratee;
+        let questAchievements = await import(`$lib/assets/quests/${questId}/achievements.json`);
+        _.each(questAchievements.default, function (achievementObject) {
+            achievementObject.quest = questId;
+            achievementsList.push(achievementObject);
+        });
+        return achievementsList;
+    }, []);
+};
+
 // Make "maps" variable from all quests json files
 export const maps = await loadJsonFiles(questsJsonFiles) as const;
 

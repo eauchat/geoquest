@@ -93,7 +93,7 @@ log.success(`Created "${questId}"
     modified          "${questFilesPaths.questsIndexTranslation}"
     created/modified  "`+ _.values(questFilesPaths).join(`"\n    created/modified  "`)
 );
-log.info(`If you didn't do so already, you should consider adding some achievements related to this new quest in "asset/data/achivements.json" and their translations in "translations/en/achievements.json".`)
+log.info(`If you didn't do so already, you should add the translations of the achievements you've set for this quest in "translations/{lang}/{quest}/achievements.json".`)
 
 //\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 //\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/

@@ -2,8 +2,7 @@ import * as turf from '@turf/turf'
 import _ from 'lodash'
 import {get} from 'svelte/store'
 
-import achievements from '$lib/assets/data/achievements.json'
-import {notifications, save} from '$lib/store'
+import {achievements, notifications, save} from '$lib/store'
 import {countryColors, geometries, loadedMap} from '$lib/store'
 
 export const CORRECT = 'correct'
