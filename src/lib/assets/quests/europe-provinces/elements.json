@@ -5801,16 +5801,6 @@
             "country": "Estonia"
         }
     },
-    "Vatican": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 1,
-        "tags": ["Vatican"],
-        "info": {
-            "country": "Vatican"
-        }
-    },
     "Northern Cyprus": {
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
@@ -18553,7 +18543,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 1,
+        "color": 3,
         "tags": ["Malta","Malta:Malta Xlokk"],
         "info": {
             "country": "Malta",
@@ -18575,7 +18565,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 3,
+        "color": 1,
         "tags": ["Malta","Malta:Malta Majjistral"],
         "info": {
             "country": "Malta",
@@ -18608,7 +18598,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 2,
+        "color": 0,
         "tags": ["Malta","Malta:Malta Majjistral"],
         "info": {
             "country": "Malta",
@@ -18630,7 +18620,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 0,
+        "color": 1,
         "tags": ["Malta","Malta:Malta Majjistral"],
         "info": {
             "country": "Malta",
@@ -18641,7 +18631,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 1,
+        "color": 0,
         "tags": ["Malta","Malta:Malta Majjistral"],
         "info": {
             "country": "Malta",
@@ -18674,7 +18664,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 0,
+        "color": 1,
         "tags": ["Malta","Malta:Malta Majjistral"],
         "info": {
             "country": "Malta",
@@ -18685,7 +18675,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 1,
+        "color": 3,
         "tags": ["Malta","Malta:Malta Xlokk"],
         "info": {
             "country": "Malta",
@@ -18696,7 +18686,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 2,
+        "color": 1,
         "tags": ["Malta","Malta:Malta Xlokk"],
         "info": {
             "country": "Malta",
@@ -18718,7 +18708,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 0,
+        "color": 1,
         "tags": ["Malta","Malta:Malta Xlokk"],
         "info": {
             "country": "Malta",
@@ -18729,7 +18719,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 1,
+        "color": 3,
         "tags": ["Malta","Malta:Malta Xlokk"],
         "info": {
             "country": "Malta",
@@ -18751,7 +18741,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 3,
+        "color": 1,
         "tags": ["Malta","Malta:Malta Xlokk"],
         "info": {
             "country": "Malta",
@@ -18806,7 +18796,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 0,
+        "color": 1,
         "tags": ["Malta","Malta:Gozo"],
         "info": {
             "country": "Malta",
@@ -18817,7 +18807,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 1,
+        "color": 0,
         "tags": ["Malta","Malta:Gozo"],
         "info": {
             "country": "Malta",
@@ -18861,7 +18851,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 1,
+        "color": 3,
         "tags": ["Malta","Malta:Gozo"],
         "info": {
             "country": "Malta",
@@ -18971,7 +18961,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 2,
+        "color": 0,
         "tags": ["Malta","Malta:Malta Majjistral"],
         "info": {
             "country": "Malta",
@@ -18982,7 +18972,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 3,
+        "color": 2,
         "tags": ["Malta","Malta:Malta Majjistral"],
         "info": {
             "country": "Malta",
@@ -18993,7 +18983,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 0,
+        "color": 3,
         "tags": ["Malta","Malta:Malta Majjistral"],
         "info": {
             "country": "Malta",
@@ -19059,7 +19049,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 2,
+        "color": 3,
         "tags": ["Malta","Malta:Malta Majjistral"],
         "info": {
             "country": "Malta",
@@ -19070,7 +19060,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 3,
+        "color": 0,
         "tags": ["Malta","Malta:Malta Majjistral"],
         "info": {
             "country": "Malta",
@@ -19081,7 +19071,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 0,
+        "color": 3,
         "tags": ["Malta","Malta:Malta Xlokk"],
         "info": {
             "country": "Malta",
@@ -19092,7 +19082,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 1,
+        "color": 0,
         "tags": ["Malta","Malta:Malta Xlokk"],
         "info": {
             "country": "Malta",
@@ -19125,7 +19115,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 0,
+        "color": 2,
         "tags": ["Malta","Malta:Malta Xlokk"],
         "info": {
             "country": "Malta",
@@ -19136,7 +19126,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 1,
+        "color": 2,
         "tags": ["Malta","Malta:Malta Xlokk"],
         "info": {
             "country": "Malta",
@@ -19147,7 +19137,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 2,
+        "color": 0,
         "tags": ["Malta","Malta:Malta Xlokk"],
         "info": {
             "country": "Malta",
@@ -19158,7 +19148,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 3,
+        "color": 1,
         "tags": ["Malta","Malta:Malta Xlokk"],
         "info": {
             "country": "Malta",
@@ -19169,7 +19159,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 0,
+        "color": 3,
         "tags": ["Malta","Malta:Malta Xlokk"],
         "info": {
             "country": "Malta",
@@ -19191,7 +19181,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 2,
+        "color": 3,
         "tags": ["Malta","Malta:Malta Xlokk"],
         "info": {
             "country": "Malta",
@@ -19202,7 +19192,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 3,
+        "color": 2,
         "tags": ["Malta","Malta:Malta Xlokk"],
         "info": {
             "country": "Malta",
@@ -19213,7 +19203,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 0,
+        "color": 3,
         "tags": ["Malta","Malta:Malta Majjistral"],
         "info": {
             "country": "Malta",
@@ -19268,7 +19258,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 1,
+        "color": 3,
         "tags": ["Malta","Malta:Malta Majjistral"],
         "info": {
             "country": "Malta",
@@ -19279,7 +19269,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 2,
+        "color": 1,
         "tags": ["Malta","Malta:Malta Majjistral"],
         "info": {
             "country": "Malta",
@@ -19290,7 +19280,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 3,
+        "color": 1,
         "tags": ["Malta","Malta:Malta Xlokk"],
         "info": {
             "country": "Malta",
