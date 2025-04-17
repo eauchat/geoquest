@@ -751,7 +751,7 @@
     },
     "Prince Edward Island": {
         "namePropertyKey": "name",
-        "color": 3,
+        "color": 0,
         "tags": ["Canada"]
     },
     "Québec": {
@@ -1236,7 +1236,7 @@
     },
     "Bangka-Belitung": {
         "namePropertyKey": "name",
-        "color": 3,
+        "color": 2,
         "tags": ["Indonesia"]
     },
     "Bali": {
@@ -1271,7 +1271,7 @@
     },
     "Kepulauan Riau": {
         "namePropertyKey": "name",
-        "color": 3,
+        "color": 1,
         "tags": ["Indonesia"]
     },
     "Gorontalo": {
@@ -1311,7 +1311,7 @@
     },
     "Maluku Utara": {
         "namePropertyKey": "name",
-        "color": 2,
+        "color": 1,
         "tags": ["Indonesia"]
     },
     "Sumatera Barat": {
@@ -1326,7 +1326,7 @@
     },
     "Maluku": {
         "namePropertyKey": "name",
-        "color": 3,
+        "color": 0,
         "tags": ["Indonesia"]
     },
     "Nusa Tenggara Barat": {
@@ -1341,7 +1341,7 @@
     },
     "Sulawesi Tengah": {
         "namePropertyKey": "name",
-        "color": 2,
+        "color": 3,
         "tags": ["Indonesia"]
     },
     "Papua": {
