@@ -6571,79 +6571,6 @@
             "country": "Republic of Serbia"
         }
     },
-    "Nord (New Caledonia)": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 2,
-        "tags": ["France","France:Overseas"],
-        "info": {
-            "country": "France",
-            "region": "New Caledonia"
-        }
-    },
-    "Providenciales and West Caicos": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 2,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "South Caicos and East Caicos": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 3,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "Middle Caicos": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 2,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "North Caicos": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 2,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "Saint-Pierre": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 2,
-        "tags": ["France","France:Overseas"],
-        "info": {
-            "country": "France",
-            "region": "Saint Pierre and Miquelon"
-        }
-    },
-    "Miquelon-Langlade": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 1,
-        "tags": ["France","France:Overseas"],
-        "info": {
-            "country": "France",
-            "region": "Saint Pierre and Miquelon"
-        }
-    },
     "Dublin": {
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
@@ -8307,7 +8234,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 0,
+        "color": 2,
         "tags": ["Norway"],
         "info": {
             "country": "Norway"
@@ -8639,7 +8566,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 1,
+        "color": 0,
         "tags": ["Greece"],
         "info": {
             "country": "Greece",
@@ -8650,7 +8577,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 2,
+        "color": 3,
         "tags": ["Greece"],
         "info": {
             "country": "Greece",
@@ -9795,7 +9722,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 2,
+        "color": 0,
         "tags": ["United Kingdom","United Kingdom:Overseas"],
         "info": {
             "country": "United Kingdom"
@@ -9805,7 +9732,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 3,
+        "color": 1,
         "tags": ["France","France:Overseas"],
         "info": {
             "country": "France",
@@ -9816,7 +9743,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 3,
+        "color": 0,
         "tags": ["France","France:Overseas"],
         "info": {
             "country": "France",
@@ -9827,7 +9754,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 2,
+        "color": 0,
         "tags": ["France","France:Overseas"],
         "info": {
             "country": "France",
@@ -9867,36 +9794,6 @@
             "region": "Guadeloupe"
         }
     },
-    "Saint Peter": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 2,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "Saint Anthony": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 1,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "Saint Georges": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 3,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
     "Saint Barthélemy": {
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
@@ -9908,131 +9805,11 @@
             "region": "Saint Barthelemy"
         }
     },
-    "East End": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 0,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "Stoney Ground": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 1,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "North Side": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 0,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "The Valley": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 2,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "North Hill": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 3,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "Sandy Ground": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 2,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "South Hill": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 1,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "West End": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 2,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "Blowing Point": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 2,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "The Farrington": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 1,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "Sandy Hill": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 2,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "Island Harbour": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 2,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
     "British Virgin Islands": {
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 3,
+        "color": 1,
         "tags": ["United Kingdom","United Kingdom:Overseas"],
         "info": {
             "country": "United Kingdom"
@@ -10042,117 +9819,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 2,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "Grand Turk": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
         "color": 3,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "Hamilton": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 3,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "Smith's": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 1,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "Devonshire": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 0,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "Pembroke": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 1,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "City of Hamilton": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 3,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "Paget": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 2,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "Warwick": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 0,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "Southampton (Bermuda)": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 1,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "Sandys": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 2,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "Saint George's": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 2,
         "tags": ["United Kingdom","United Kingdom:Overseas"],
         "info": {
             "country": "United Kingdom"
@@ -10162,7 +9829,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 2,
+        "color": 0,
         "tags": ["France","France:Overseas"],
         "info": {
             "country": "France",
@@ -10184,7 +9851,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 3,
+        "color": 2,
         "tags": ["United Kingdom","United Kingdom:Overseas"],
         "info": {
             "country": "United Kingdom"
@@ -10215,7 +9882,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 2,
+        "color": 3,
         "tags": ["France","France:Overseas"],
         "info": {
             "country": "France",
@@ -10226,7 +9893,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 3,
+        "color": 0,
         "tags": ["United Kingdom","United Kingdom:Overseas"],
         "info": {
             "country": "United Kingdom"
@@ -10236,7 +9903,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 3,
+        "color": 1,
         "tags": ["Spain","Spain:Canary Is."],
         "info": {
             "country": "Spain",
@@ -10247,7 +9914,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 3,
+        "color": 0,
         "tags": ["Spain","Spain:Canary Is."],
         "info": {
             "country": "Spain",
@@ -10268,7 +9935,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 1,
+        "color": 3,
         "tags": ["Greece"],
         "info": {
             "country": "Greece"
@@ -10278,7 +9945,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 2,
+        "color": 0,
         "tags": ["Greece"],
         "info": {
             "country": "Greece"
@@ -10298,7 +9965,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 2,
+        "color": 0,
         "tags": ["Italy","Italy:Sicily"],
         "info": {
             "country": "Italy",
@@ -10319,7 +9986,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 2,
+        "color": 3,
         "tags": ["Greece"],
         "info": {
             "country": "Greece"
@@ -10329,7 +9996,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 3,
+        "color": 2,
         "tags": ["Greece"],
         "info": {
             "country": "Greece"
@@ -10372,7 +10039,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 2,
+        "color": 0,
         "tags": ["Italy","Italy:Sicily"],
         "info": {
             "country": "Italy",
@@ -10416,7 +10083,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 3,
+        "color": 0,
         "tags": ["Spain","Spain:Islas Baleares"],
         "info": {
             "country": "Spain",
@@ -10589,7 +10256,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 1,
+        "color": 2,
         "tags": ["Denmark"],
         "info": {
             "country": "Denmark"
@@ -10599,7 +10266,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 2,
+        "color": 0,
         "tags": ["Denmark"],
         "info": {
             "country": "Denmark"
@@ -10620,7 +10287,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 2,
+        "color": 3,
         "tags": ["Sweden"],
         "info": {
             "country": "Sweden"
@@ -10630,7 +10297,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 3,
+        "color": 1,
         "tags": ["United Kingdom","United Kingdom:Highlands and Islands"],
         "info": {
             "country": "United Kingdom",
@@ -10652,7 +10319,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 3,
+        "color": 2,
         "tags": ["Finland"],
         "info": {
             "country": "Finland"
@@ -10672,7 +10339,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 3,
+        "color": 0,
         "tags": ["Finland"],
         "info": {
             "country": "Finland"
@@ -10682,7 +10349,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 2,
+        "color": 3,
         "tags": ["Finland"],
         "info": {
             "country": "Finland"
@@ -10702,7 +10369,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 2,
+        "color": 0,
         "tags": ["Finland"],
         "info": {
             "country": "Finland"
@@ -10712,7 +10379,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 3,
+        "color": 0,
         "tags": ["Denmark"],
         "info": {
             "country": "Denmark"
@@ -10732,7 +10399,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 1,
+        "color": 0,
         "tags": ["Estonia"],
         "info": {
             "country": "Estonia"
@@ -10742,7 +10409,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 1,
+        "color": 3,
         "tags": ["Estonia"],
         "info": {
             "country": "Estonia"
@@ -10752,7 +10419,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 2,
+        "color": 0,
         "tags": ["Finland"],
         "info": {
             "country": "Finland"
@@ -10762,7 +10429,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 3,
+        "color": 1,
         "tags": ["Finland"],
         "info": {
             "country": "Finland"
@@ -10782,7 +10449,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 2,
+        "color": 1,
         "tags": ["Norway"],
         "info": {
             "country": "Norway"
@@ -10797,28 +10464,6 @@
         "info": {
             "country": "France",
             "region": "French Polynesia"
-        }
-    },
-    "Sigave": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 2,
-        "tags": ["France","France:Overseas"],
-        "info": {
-            "country": "France",
-            "region": "Wallis and Futuna"
-        }
-    },
-    "Alo": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 3,
-        "tags": ["France","France:Overseas"],
-        "info": {
-            "country": "France",
-            "region": "Wallis and Futuna"
         }
     },
     "Marquesas Islands": {
@@ -10836,7 +10481,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 3,
+        "color": 0,
         "tags": ["United Kingdom","United Kingdom:Overseas"],
         "info": {
             "country": "United Kingdom"
@@ -10846,7 +10491,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 2,
+        "color": 3,
         "tags": ["Norway"],
         "info": {
             "country": "Norway"
@@ -10856,7 +10501,7 @@
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 2,
+        "color": 1,
         "tags": ["United Kingdom","United Kingdom:Overseas"],
         "info": {
             "country": "United Kingdom"
@@ -10871,49 +10516,6 @@
         "info": {
             "country": "France",
             "region": "French Southern and Antarctic Lands"
-        }
-    },
-    "Sud (New Caledonia)": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 3,
-        "tags": ["France","France:Overseas"],
-        "info": {
-            "country": "France",
-            "region": "New Caledonia"
-        }
-    },
-    "Îles Loyauté": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 2,
-        "tags": ["France","France:Overseas"],
-        "info": {
-            "country": "France",
-            "region": "New Caledonia"
-        }
-    },
-    "`Uvea": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 3,
-        "tags": ["France","France:Overseas"],
-        "info": {
-            "country": "France",
-            "region": "Wallis and Futuna"
-        }
-    },
-    "Anguilla minor island": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 2,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
         }
     },
     "Isles of Scilly": {
@@ -10937,21 +10539,11 @@
             "country": "France"
         }
     },
-    "Salt Cay": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 3,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
     "Lemland": {
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
         "namePropertyKey": "name",
-        "color": 2,
+        "color": 3,
         "tags": ["Finland"],
         "info": {
             "country": "Finland"
@@ -16867,36 +16459,6 @@
             "region": "Northern Great Plain"
         }
     },
-    "George Hill": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 0,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "The Quarter": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 3,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
-    "City of Saint George": {
-        "style": "stroke-width: 0.03;",
-        "islandHelpersMargin": 5,
-        "namePropertyKey": "name",
-        "color": 0,
-        "tags": ["United Kingdom","United Kingdom:Overseas"],
-        "info": {
-            "country": "United Kingdom"
-        }
-    },
     "Enna": {
         "style": "stroke-width: 0.03;",
         "islandHelpersMargin": 5,
@@ -19285,6 +18847,79 @@
         "info": {
             "country": "Malta",
             "region": "Malta Xlokk"
+        }
+    },
+    "Anguilla": {
+        "style": "stroke-width: 0.03;",
+        "islandHelpersMargin": 5,
+        "namePropertyKey": "name",
+        "color": 0,
+        "tags": ["United Kingdom","United Kingdom:Overseas"],
+        "info": {
+            "country": "United Kingdom"
+        }
+    },
+    "Montserrat": {
+        "style": "stroke-width: 0.03;",
+        "islandHelpersMargin": 5,
+        "namePropertyKey": "name",
+        "color": 0,
+        "tags": ["United Kingdom","United Kingdom:Overseas"],
+        "info": {
+            "country": "United Kingdom"
+        }
+    },
+    "Turks and Caicos Islands": {
+        "style": "stroke-width: 0.03;",
+        "islandHelpersMargin": 5,
+        "namePropertyKey": "name",
+        "color": 0,
+        "tags": ["United Kingdom","United Kingdom:Overseas"],
+        "info": {
+            "country": "United Kingdom"
+        }
+    },
+    "Wallis and Futuna": {
+        "style": "stroke-width: 0.03;",
+        "islandHelpersMargin": 5,
+        "namePropertyKey": "name",
+        "color": 3,
+        "tags": ["France","France:Overseas"],
+        "info": {
+            "country": "France",
+            "region": "Wallis and Futuna"
+        }
+    },
+    "New Caledonia": {
+        "style": "stroke-width: 0.03;",
+        "islandHelpersMargin": 5,
+        "namePropertyKey": "name",
+        "color": 2,
+        "tags": ["France","France:Overseas"],
+        "info": {
+            "country": "France",
+            "region": "New Caledonia"
+        }
+    },
+    "Saint Pierre and Miquelon": {
+        "style": "stroke-width: 0.03;",
+        "islandHelpersMargin": 5,
+        "namePropertyKey": "name",
+        "color": 2,
+        "tags": ["France","France:Overseas"],
+        "info": {
+            "country": "France",
+            "region": "Saint Pierre and Miquelon"
+        }
+    },
+    "Bermuda": {
+        "style": "stroke-width: 0.03;",
+        "islandHelpersMargin": 5,
+        "namePropertyKey": "name",
+        "color": 3,
+        "tags": ["United Kingdom","United Kingdom:Overseas"],
+        "info": {
+            "country": "United Kingdom"
         }
     }
 }
